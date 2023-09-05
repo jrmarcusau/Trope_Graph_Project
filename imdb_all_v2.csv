@@ -1,0 +1,2659 @@
+movie,year,id
+witchcraft,1916.0,7575
+now or never,1921.0,12512
+the lost world,1925.0,16039
+the phantom of the opera,1925.0,16220
+the jazz singer,1927.0,18037
+london after midnight,1927.0,18097
+napoleon,1927.0,18192
+the passion of joan of arc,1928.0,19254
+one good turn,1930.0,21214
+an american tragedy,1931.0,21607
+frankenstein,1931.0,21884
+the last flight,1931.0,22054
+platinum blonde,1931.0,22268
+american madness,1932.0,22626
+grand hotel,1932.0,22958
+one way passage,1932.0,23305
+trouble in paradise,1932.0,23622
+vampyr,1932.0,23649
+duck soup,1933.0,23969
+mystery of the wax museum,1933.0,24368
+it happened one night,1934.0,25316
+maniac,1934.0,25465
+the thin man,1934.0,25878
+transatlantic merry-go-round,1934.0,25905
+mr. deeds goes to town,1936.0,27996
+lost horizon,1937.0,29162
+angels with dirty faces,1938.0,29870
+bringing up baby,1938.0,29947
+pygmalion,1938.0,30637
+gone with the wind,1939.0,31381
+mr. smith goes to washington,1939.0,31679
+ninotchka,1939.0,31725
+stagecoach,1939.0,31971
+the wizard of oz,1939.0,32138
+the grapes of wrath,1940.0,32551
+his girl friday,1940.0,32599
+new moon,1940.0,32840
+citizen kane,1941.0,33467
+all that money can buy,1941.0,33532
+dr. jekyll and mr. hyde,1941.0,33553
+the maltese falcon,1941.0,33870
+meet john doe,1941.0,33891
+casablanca,1942.0,34583
+cat people,1942.0,34587
+kate & leopold,2001.0,35423
+i walked with a zombie,1943.0,36027
+the leopard man,1943.0,36104
+the life and death of colonel blimp,1943.0,36112
+the seventh victim,1943.0,36341
+arsenic and old lace,1944.0,36613
+the curse of the cat people,1944.0,36733
+double indemnity,1944.0,36775
+tall in the saddle,1944.0,37343
+the body snatcher,1945.0,37549
+isle of the dead,1945.0,37820
+the lost weekend,1945.0,37884
+the big sleep,1946.0,38355
+it's a wonderful life,1946.0,38650
+the jolson story,1946.0,38661
+mr. blandings builds his dream house,1948.0,40613
+the naked city,1948.0,40636
+portrait of jennie,1948.0,40705
+station west,1948.0,40835
+all the king's men,1949.0,41113
+roughshod,1949.0,41827
+the third man,1949.0,41959
+all about eve,1950.0,42192
+harvey,1950.0,42546
+the jackie robinson story,1950.0,42609
+sunset blvd.,1950.0,43014
+the african queen,1951.0,43265
+apache drums,1951.0,43291
+the day the earth stood still,1951.0,43456
+a christmas carol,1951.0,44008
+strangers on a train,1951.0,44079
+high noon,1952.0,44706
+singin' in the rain,1952.0,45152
+from here to eternity,1953.0,45793
+inferno,1953.0,45911
+stalag 17,1953.0,46359
+the war of the worlds,1953.0,46534
+on the waterfront,1954.0,47296
+rear window,1954.0,47396
+sabrina,1954.0,47437
+salt of the earth,1954.0,47443
+seven samurai,1954.0,47478
+white christmas,1954.0,47673
+the wild one,1953.0,47677
+the white angel,1955.0,47832
+bad day at black rock,1955.0,47849
+marty,1955.0,48356
+the night of the hunter,1955.0,48424
+rebel without a cause,1955.0,48545
+forbidden planet,1956.0,49223
+the man who knew too much,1956.0,49470
+the searchers,1956.0,49730
+12 angry men,1957.0,50083
+an affair to remember,1957.0,50105
+the bachelor party,1957.0,50156
+the seventh seal,1957.0,50976
+sweet smell of success,1957.0,51036
+the wings of eagles,1957.0,51198
+the 7th voyage of sinbad,1958.0,51337
+vertigo,1958.0,52357
+the vikings,1958.0,52365
+anatomy of a murder,1959.0,52561
+the atomic submarine,1959.0,52587
+a bucket of blood,1959.0,52655
+north by northwest,1959.0,53125
+some like it hot,1959.0,53291
+13 ghosts,1960.0,53559
+the apartment,1960.0,53604
+l'avventura,1960.0,53619
+peeping tom,1960.0,54167
+psycho,1960.0,54215
+orgy of the dead,1965.0,54240
+spartacus,1960.0,54331
+the time machine,1960.0,54387
+the hustler,1961.0,54997
+viridiana,1961.0,55601
+dr. no,1962.0,55928
+lawrence of arabia,1962.0,56172
+the miracle worker,1962.0,56241
+ride the high country,1962.0,56412
+to kill a mockingbird,1962.0,56592
+8½,1963.0,56801
+the birds,1963.0,56869
+charade,1963.0,56923
+dr. strangelove or: how i learned to stop worrying and love the bomb,1964.0,57012
+from russia with love,1963.0,57076
+the great escape,1963.0,57115
+house of the damned,1963.0,57160
+goldfinger,1964.0,58150
+a hard day's night,1964.0,58182
+mary poppins,1964.0,58331
+nothing but a man,1964.0,58414
+the battle of algiers,1966.0,58946
+the cincinnati kid,1965.0,59037
+doctor zhivago,1965.0,59113
+the sound of music,1965.0,59742
+thunderball,1965.0,59800
+fantastic voyage,1966.0,60397
+bonnie and clyde,1967.0,61418
+cool hand luke,1967.0,61512
+the graduate,1967.0,61722
+two for the road,1967.0,62407
+2001: a space odyssey,1968.0,62622
+the lion in winter,1968.0,63227
+night of the living dead,1968.0,63350
+petulia,1968.0,63426
+planet of the apes,1968.0,63442
+the producers,1967.0,63462
+rosemary's baby,1968.0,63522
+shame,1968.0,63611
+the swimmer,1968.0,63663
+butch cassidy and the sundance kid,1969.0,64115
+midnight cowboy,1969.0,64665
+the wild bunch,1969.0,65214
+five easy pieces,1970.0,65724
+m*a*s*h,1970.0,66026
+the private life of sherlock holmes,1970.0,66249
+thx 1138,1971.0,66434
+the beguiled,1971.0,66819
+a clockwork orange,1971.0,66921
+escape from the planet of the apes,1971.0,67065
+the french connection,1971.0,67116
+get carter,1971.0,67128
+"happy birthday, wanda june",1971.0,67180
+harold and maude,1971.0,67185
+the hospital,1971.0,67217
+klute,1971.0,67309
+the last picture show,1971.0,67328
+a new leaf,1971.0,67482
+the omega man,1971.0,67525
+walkabout,1971.0,67959
+willy wonka & the chocolate factory,1971.0,67992
+the getaway,1972.0,68638
+the other side of the wind,2018.0,69049
+the poseidon adventure,1972.0,69113
+sounder,1972.0,69303
+the stone tape,,69316
+american graffiti,1973.0,69704
+badlands,1973.0,69762
+dark star,1974.0,69945
+don't look now,1973.0,69995
+the exorcist,1973.0,70047
+live and let die,1973.0,70328
+the long goodbye,1973.0,70334
+mean streets,1973.0,70379
+paper moon,1973.0,70510
+soylent green,1973.0,70723
+the sting,1973.0,70735
+last tango in paris,1972.0,70849
+the wicker man,1973.0,70917
+black christmas,1974.0,71222
+chinatown,1974.0,71315
+the godfather part ii,1974.0,71562
+gone in 60 seconds,1974.0,71571
+the great gatsby,1974.0,71577
+lenny,1974.0,71746
+monty python and the holy grail,1975.0,71853
+the parallax view,1974.0,71970
+the taking of pelham one two three,1974.0,72251
+the texas chain saw massacre,1974.0,72271
+young frankenstein,1974.0,72431
+barry lyndon,1975.0,72684
+dog day afternoon,1975.0,72890
+jaws,1975.0,73195
+nashville,1975.0,73440
+one flew over the cuckoo's nest,1975.0,73486
+picnic at hanging rock,1975.0,73540
+the rocky horror picture show,1975.0,73629
+shampoo,1975.0,73692
+shivers,1975.0,73705
+three days of the condor,1975.0,73802
+all the president's men,1976.0,74119
+car wash,1976.0,74281
+carrie,1976.0,74285
+eraserhead,1977.0,74486
+cross of iron,1977.0,74695
+logan's run,1976.0,74812
+mikey and nicky,1976.0,74901
+network,1976.0,74958
+the omen,1976.0,75005
+rocky,1976.0,75148
+taxi driver,1976.0,75314
+annie hall,1977.0,75686
+close encounters of the third kind,1977.0,75860
+exorcist ii: the heretic,1977.0,76009
+the goodbye girl,1977.0,76095
+julia,1977.0,76245
+rabid,1977.0,76590
+smokey and the bandit,1977.0,76729
+the spy who loved me,1977.0,76752
+star wars: episode iv - a new hope,1977.0,76759
+which way is up?,1977.0,76913
+coming home,1978.0,77362
+dawn of the dead,1978.0,77402
+days of heaven,1978.0,77405
+the deer hunter,1978.0,77416
+the driver,1978.0,77474
+grease,1978.0,77631
+halloween,1978.0,77651
+heaven can wait,1978.0,77663
+the hills have eyes,1977.0,77681
+invasion of the body snatchers,1978.0,77745
+jaws 2,1978.0,77766
+the lord of the rings,1978.0,77869
+midnight express,1978.0,77928
+superman,1978.0,78346
+an unmarried woman,1978.0,78444
+alien,1979.0,78748
+the amityville horror,1979.0,78767
+apocalypse now,1979.0,78788
+being there,1979.0,78841
+breaking away,1979.0,78902
+the great train robbery,1978.0,79240
+hardcore,1979.0,79271
+the jerk,1979.0,79367
+kramer vs. kramer,1979.0,79417
+meatballs,1979.0,79540
+norma rae,1979.0,79638
+rocky ii,1979.0,79817
+star trek: the motion picture,1979.0,79945
+the warriors,1979.0,80120
+when a stranger calls,1979.0,80130
+zulu dawn,1979.0,80180
+9 to 5,1980.0,80319
+airplane!,1980.0,80339
+the blues brothers,1980.0,80455
+caddyshack,1980.0,80487
+du zhou,1985.0,80583
+dressed to kill,1980.0,80661
+the elephant man,1980.0,80678
+star wars: episode v - the empire strikes back,1980.0,80684
+flash gordon,1980.0,80745
+the fog,1980.0,80749
+friday the 13th,1980.0,80761
+melvin and howard,1980.0,81150
+ordinary people,1980.0,81283
+prom night,1980.0,81383
+raging bull,1980.0,81398
+scanners,1981.0,81455
+the shining,1980.0,81505
+the stunt man,1980.0,81568
+superman ii,1980.0,81573
+time bandits,1981.0,81633
+an american werewolf in london,1981.0,82010
+body heat,1981.0,82089
+dragonslayer,1981.0,82288
+escape from new york,1981.0,82340
+excalibur,1981.0,82348
+for your eyes only,1981.0,82398
+the great muppet caper,1981.0,82474
+halloween ii,1981.0,82495
+happy birthday to me,1981.0,82498
+heavy metal,1981.0,82509
+the howling,1981.0,82533
+the road warrior,1981.0,82694
+raiders of the lost ark,1981.0,82971
+reds,1981.0,82979
+sharky's machine,1981.0,83064
+shock treatment,1981.0,83067
+thief,1981.0,83190
+48 hrs.,1982.0,83511
+airplane ii: the sequel,1982.0,83530
+basket case,1982.0,83624
+blade runner,1982.0,83658
+cat people,1982.0,83722
+diner,1982.0,83833
+e.t. the extra-terrestrial,1982.0,83866
+the evil dead,1981.0,83907
+fast times at ridgemont high,1982.0,83929
+first blood,1982.0,83944
+frances,1982.0,83967
+friday the 13th part iii,1982.0,83972
+gandhi,1982.0,83987
+monty python live at the hollywood bowl,1982.0,84352
+an officer and a gentleman,1982.0,84434
+personal best,1982.0,84489
+poltergeist,1982.0,84516
+porky's,1981.0,84522
+rocky iii,1982.0,84602
+star trek ii: the wrath of khan,1982.0,84726
+the thing,1982.0,84787
+tootsie,1982.0,84805
+tron,1982.0,84827
+the verdict,1982.0,84855
+the big chill,1983.0,85244
+christine,1983.0,85333
+a christmas story,1983.0,85334
+class,1983.0,85346
+the dead zone,1983.0,85407
+flashdance,1983.0,85549
+the king of comedy,1982.0,85794
+krull,1983.0,85811
+the meaning of life,1983.0,85959
+national lampoon's vacation,1983.0,85995
+octopussy,1983.0,86034
+the outsiders,1983.0,86066
+the ploughman's lunch,1983.0,86122
+star wars: episode vi - return of the jedi,1983.0,86190
+scarface,1983.0,86250
+silkwood,1983.0,86312
+something wicked this way comes,1983.0,86336
+superman iii,1983.0,86393
+terms of endearment,1983.0,86425
+under fire,1983.0,86510
+2010: the year we make contact,1984.0,86837
+the adventures of buckaroo banzai across the 8th dimension,1984.0,86856
+amadeus,1984.0,86879
+bachelor party,1984.0,86927
+beverly hills cop,1984.0,86960
+blood simple,1984.0,86979
+children of the corn,1984.0,87050
+dune,1984.0,87182
+ghostbusters,1984.0,87332
+godzilla 1985,1985.0,87344
+gremlins,1984.0,87363
+indiana jones and the temple of doom,1984.0,87469
+the karate kid,1984.0,87538
+a nightmare on elm street,1984.0,87800
+once upon a time in america,1984.0,87843
+police academy,1984.0,87928
+purple rain,1984.0,87957
+red dawn,1984.0,87985
+revenge of the nerds,1984.0,88000
+romancing the stone,1984.0,88011
+sixteen candles,1984.0,88128
+a soldier's story,1984.0,88146
+star trek iii: the search for spock,1984.0,88170
+starman,1984.0,88172
+stranger than paradise,1984.0,88184
+supergirl,1984.0,88206
+the terminator,1984.0,88247
+this is spinal tap,1984.0,88258
+the neverending story,1984.0,88323
+agnes of god,1985.0,88683
+back to the future,1985.0,88763
+brazil,1985.0,88846
+the breakfast club,1985.0,88847
+clue,1985.0,88930
+cocoon,1985.0,88933
+code of silence,1985.0,88936
+the color purple,1985.0,88939
+commando,1985.0,88944
+day of the dead,1985.0,88993
+deceptions,,89008
+fletch,1985.0,89155
+fright night,1985.0,89175
+the goonies,1985.0,89218
+jagged edge,1985.0,89360
+kiss of the spider woman,1985.0,89424
+ladyhawke,1985.0,89457
+legend,1985.0,89469
+lost in america,1985.0,89504
+national lampoon's european vacation,1985.0,89670
+a nightmare on elm street 2: freddy's revenge,1985.0,89686
+police academy 2: their first assignment,1985.0,89822
+rambo: first blood part ii,1985.0,89880
+ran,1985.0,89881
+real genius,1985.0,89886
+the return of the living dead,1985.0,89907
+rocky iv,1985.0,89927
+silver bullet,1985.0,90021
+silverado,1985.0,90022
+st. elmo's fire,1985.0,90060
+starchaser: the legend of orin,1985.0,90065
+teen wolf,1985.0,90142
+a view to a kill,1985.0,90264
+witness,1985.0,90329
+aliens,1986.0,90605
+april fool's day,1986.0,90655
+big trouble in little china,1986.0,90728
+blue velvet,1986.0,90756
+ferris bueller's day off,1986.0,91042
+the fly,1986.0,91064
+friday the 13th part vi: jason lives,1986.0,91080
+hannah and her sisters,1986.0,91167
+highlander,1986.0,91203
+the hitcher,1986.0,91209
+invaders from mars,1986.0,91276
+"jo jo dancer, your life is calling",1986.0,91295
+the karate kid part ii,1986.0,91326
+labyrinth,1986.0,91369
+little shop of horrors,1986.0,91419
+manhunter,1986.0,91474
+peggy sue got married,1986.0,91738
+platoon,1986.0,91763
+police academy 3: back in training,1986.0,91777
+river's edge,1986.0,91860
+running scared,1986.0,91875
+stand by me,1986.0,92005
+star trek iv: the voyage home,1986.0,92007
+three amigos!,1986.0,92086
+top gun,1986.0,92099
+tough guys,1986.0,92105
+the transformers: the movie,1986.0,92106
+trick or treat,1986.0,92112
+broadcast news,1987.0,92699
+disorderlies,1987.0,92897
+evil dead ii,1987.0,92991
+fatal attraction,1987.0,93010
+full metal jacket,1987.0,93058
+hellraiser,1987.0,93177
+hope and glory,1987.0,93209
+innerspace,1987.0,93260
+lethal weapon,1987.0,93409
+like father like son,1987.0,93418
+the living daylights,1987.0,93428
+the lost boys,1987.0,93437
+made in heaven,1987.0,93467
+moonstruck,1987.0,93565
+my demon lover,1987.0,93589
+near dark,1987.0,93605
+night of the demons,1988.0,93624
+a nightmare on elm street 3: dream warriors,1987.0,93629
+overboard,1987.0,93693
+"planes, trains & automobiles",1987.0,93748
+predator,1987.0,93773
+prince of darkness,1987.0,93777
+the princess bride,1987.0,93779
+raising arizona,1987.0,93822
+robocop,1987.0,93870
+some kind of wonderful,1987.0,94006
+someone to watch over me,1987.0,94008
+spaceballs,1987.0,94012
+street smart,1987.0,94056
+superman iv: the quest for peace,1987.0,94074
+three men and a baby,1987.0,94137
+tin men,1987.0,94155
+wall street,1987.0,94291
+the witches of eastwick,1987.0,94332
+withnail & i,1987.0,94336
+above the law,1988.0,94602
+the accidental tourist,1988.0,94606
+action jackson,1988.0,94612
+alien nation,1988.0,94631
+bad dreams,1988.0,94701
+beetlejuice,1988.0,94721
+big,1988.0,94737
+the blob,1988.0,94761
+bull durham,1988.0,94812
+coming to america,1988.0,94898
+die hard,1988.0,95016
+a fish called wanda,1988.0,95159
+frantic,1988.0,95174
+the big blue,1988.0,95250
+halloween 4: the return of michael myers,1988.0,95271
+hellbound: hellraiser ii,1988.0,95294
+killer klowns from outer space,1988.0,95444
+the last temptation of christ,1988.0,95497
+maniac cop,1988.0,95583
+midnight run,1988.0,95631
+the naked gun: from the files of police squad!,1988.0,95705
+a nightmare on elm street 4: the dream master,1988.0,95742
+cinema paradiso,1988.0,95765
+promised land,1987.0,95916
+rambo iii,1988.0,95956
+scrooged,1988.0,96061
+sleepaway camp iii: teenage wasteland,1989.0,96119
+tequila sunrise,1988.0,96244
+they live,1988.0,96256
+twins,1988.0,96320
+waxwork,1988.0,96426
+who framed roger rabbit,1988.0,96438
+willow,1988.0,96446
+working girl,1988.0,96463
+young guns,1988.0,96487
+the 'burbs,1989.0,96734
+84c mopic,1989.0,96744
+the abyss,1989.0,96754
+back to the future part ii,1989.0,96874
+batman,1989.0,96895
+bill & ted's excellent adventure,1989.0,96928
+black rain,1989.0,96933
+born on the fourth of july,1989.0,96969
+dead poets society,1989.0,97165
+deepstar six,1989.0,97179
+the killer,1989.0,97202
+do the right thing,1989.0,97216
+driving miss daisy,1989.0,97239
+a dry white season,1989.0,97243
+erik the viking,1989.0,97289
+the fabulous baker boys,1989.0,97322
+field of dreams,1989.0,97351
+the fly ii,1989.0,97368
+friday the 13th part viii: jason takes manhattan,1989.0,97388
+ghostbusters ii,1989.0,97428
+harlem nights,1989.0,97481
+heathers,1988.0,97493
+hider in the house,1989.0,97503
+"honey, i shrunk the kids",1989.0,97523
+indiana jones and the last crusade,1989.0,97576
+the karate kid part iii,1989.0,97647
+lethal weapon 2,1989.0,97733
+leviathan,1989.0,97737
+licence to kill,1989.0,97742
+the little mermaid,1989.0,97757
+little monsters,1989.0,97758
+the magic toyshop,1987.0,97806
+major league,1989.0,97815
+national lampoon's christmas vacation,1989.0,97958
+a nightmare on elm street: the dream child,1989.0,97981
+pet sematary,1989.0,98084
+road house,1989.0,98206
+say anything,1989.0,98258
+sea of love,1989.0,98273
+star trek v: the final frontier,1989.0,98382
+true believer,1989.0,98524
+uncle buck,1989.0,98554
+the war of the roses,1989.0,98621
+we're no angels,1989.0,98625
+when harry met sally...,1989.0,98635
+"sex, lies, and videotape",1989.0,98724
+the adventures of ford fairlane,1990.0,98987
+another 48 hrs.,1990.0,99044
+awakenings,1990.0,99077
+the bonfire of the vanities,1990.0,99165
+dances with wolves,1990.0,99348
+darkman,1990.0,99365
+desperate hours,1990.0,99409
+die hard 2,1990.0,99423
+edward scissorhands,1990.0,99487
+the exorcist iii,1990.0,99528
+ghost,1990.0,99653
+the godfather part iii,1990.0,99674
+goodfellas,1990.0,99685
+gremlins 2: the new batch,1990.0,99700
+the grifters,1990.0,99703
+hard to kill,1990.0,99739
+hardware,1990.0,99740
+home alone,1990.0,99785
+the hunt for red october,1990.0,99810
+jacob's ladder,1990.0,99871
+joe versus the volcano,1990.0,99892
+leatherface: texas chainsaw massacre iii,1990.0,99994
+memphis belle,1990.0,100133
+miller's crossing,1990.0,100150
+misery,1990.0,100157
+nightbreed,1990.0,100260
+predator 2,1990.0,100403
+pretty woman,1990.0,100405
+the rescuers down under,1990.0,100477
+state of grace,1990.0,100685
+to sleep with anger,1990.0,100791
+total recall,1990.0,100802
+tremors,1990.0,100814
+the two jakes,1990.0,100828
+wild at heart,1990.0,100935
+the addams family,1991.0,101272
+american shaolin,1991.0,101327
+backdraft,1991.0,101393
+barton fink,1991.0,101410
+bill & ted's bogus journey,1991.0,101452
+boyz n the hood,1991.0,101507
+curly sue,1991.0,101635
+the doors,1991.0,101761
+dutch,1991.0,101786
+father of the bride,1991.0,101862
+the fisher king,1991.0,101889
+freddy's dead: the final nightmare,1991.0,101917
+hangin' with the homeboys,1991.0,101998
+highlander ii: the quickening,1991.0,102034
+hudson hawk,1991.0,102070
+jfk,1991.0,102138
+kafka,1991.0,102181
+the last boy scout,1991.0,102266
+life stinks,1991.0,102303
+light sleeper,1992.0,102307
+mobsters,1991.0,102460
+my girl,1991.0,102492
+my own private idaho,1991.0,102494
+new jack city,1991.0,102526
+point break,1991.0,102685
+rambling rose,1991.0,102753
+the rapture,1991.0,102757
+robin hood: prince of thieves,1991.0,102798
+the rocketeer,1991.0,102803
+the silence of the lambs,1991.0,102926
+star trek vi: the undiscovered country,1991.0,102975
+the super,1991.0,103007
+talkin' dirty after dark,1991.0,103039
+terminator 2: judgment day,1991.0,103064
+thelma & louise,1991.0,103074
+what about bob?,1991.0,103241
+1492: conquest of paradise,1992.0,103594
+aladdin,1992.0,103639
+alien³,1992.0,103644
+bad lieutenant,1992.0,103759
+basic instinct,1992.0,103772
+batman returns,1992.0,103776
+the bodyguard,1992.0,103855
+boomerang,1992.0,103859
+bram stoker's dracula,1992.0,103874
+buffy the vampire slayer,1992.0,103893
+candyman,1992.0,103919
+city of joy,1992.0,103976
+the crying game,1992.0,104036
+the cutting edge,1992.0,104040
+death becomes her,1992.0,104070
+deep cover,1992.0,104073
+the distinguished gentleman,1992.0,104114
+a few good men,1992.0,104257
+glengarry glen ross,1992.0,104348
+hellraiser iii: hell on earth,1992.0,104409
+home alone 2: lost in new york,1992.0,104431
+"honey, i blew up the kid",1992.0,104437
+jennifer 8,1992.0,104549
+knight moves,1992.0,104627
+the last of the mohicans,1992.0,104691
+malcolm x,1992.0,104797
+man trouble,1992.0,104804
+el mariachi,1992.0,104815
+the mighty ducks,1992.0,104868
+my cousin vinny,1992.0,104952
+newsies,1992.0,104990
+passenger 57,1992.0,105104
+pet sematary ii,1992.0,105128
+the player,1992.0,105151
+the power of one,1992.0,105159
+the public eye,1992.0,105187
+reservoir dogs,1992.0,105236
+single white female,1992.0,105414
+sister act,1992.0,105417
+sneakers,1992.0,105435
+thunderheart,1992.0,105585
+twin peaks: fire walk with me,1992.0,105665
+under siege,1992.0,105690
+unforgiven,1992.0,105695
+where the day takes you,1992.0,105810
+addams family values,1993.0,106220
+arcade,,106302
+arctic blue,1993.0,106303
+army of darkness,1992.0,106308
+batman: mask of the phantasm,1993.0,106364
+being human,1994.0,106379
+benny & joon,1993.0,106387
+"bodies, rest & motion",1993.0,106447
+body snatchers,1993.0,106452
+body of evidence,1992.0,106453
+cb4,1993.0,106500
+cliffhanger,1993.0,106582
+coneheads,1993.0,106598
+cool runnings,1993.0,106611
+dave,1993.0,106673
+dazed and confused,1993.0,106677
+demolition man,1993.0,106697
+even cowgirls get the blues,1993.0,106834
+fatal instinct,1993.0,106873
+the firm,1993.0,106918
+the fugitive,1993.0,106977
+groundhog day,1993.0,107048
+hocus pocus,1993.0,107120
+indecent proposal,1993.0,107211
+jason goes to hell: the final friday,1993.0,107254
+jurassic park,1993.0,107290
+kalifornia,1993.0,107302
+leprechaun,1993.0,107387
+manhattan murder mystery,1993.0,107507
+the nightmare before christmas,1993.0,107688
+the pelican brief,1993.0,107798
+a perfect world,1993.0,107808
+philadelphia,1993.0,107818
+the piano,1993.0,107822
+poetic justice,1993.0,107840
+the program,1993.0,107889
+the sandlot,1993.0,108037
+schindler's list,1993.0,108052
+six degrees of separation,1993.0,108149
+sleepless in seattle,1993.0,108160
+sliver,1993.0,108162
+so i married an axe murderer,1993.0,108174
+spare me,1993.0,108200
+the thing called love,1993.0,108327
+this boy's life,1993.0,108330
+the three musketeers,1993.0,108333
+tombstone,1993.0,108358
+true romance,1993.0,108399
+ace ventura: pet detective,1994.0,109040
+blankman,1994.0,109288
+clear and present danger,1994.0,109444
+clerks,1994.0,109445
+cobb,1994.0,109450
+color of night,1994.0,109456
+the crow,1994.0,109506
+d2: the mighty ducks,1994.0,109520
+disclosure,1994.0,109635
+dumb and dumber,1994.0,109686
+ed wood,1994.0,109707
+the flintstones,1994.0,109813
+forrest gump,1994.0,109830
+four weddings and a funeral,1994.0,109831
+mary shelley's frankenstein,1994.0,109836
+freaked,1993.0,109838
+heavenly creatures,1994.0,110005
+heavyweights,1995.0,110006
+highlander: the final dimension,1994.0,110027
+the hudsucker proxy,1994.0,110074
+i'll do anything,1994.0,110097
+interview with the vampire: the vampire chronicles,1994.0,110148
+killing zoe,1993.0,110265
+the low life,1995.0,110400
+the mask,1994.0,110475
+maverick,1994.0,110478
+mute witness,1995.0,110604
+natural born killers,1994.0,110632
+only you,1994.0,110737
+before the rain,1994.0,110882
+pulp fiction,1994.0,110912
+quiz show,1994.0,110932
+reality bites,1994.0,110950
+texas chainsaw massacre: the next generation,1995.0,110978
+serial mom,1994.0,111127
+shallow grave,1994.0,111149
+the shawshank redemption,1994.0,111161
+speed,1994.0,111257
+star trek: generations,1994.0,111280
+stranglehold,1994.0,111300
+true lies,1994.0,111503
+new nightmare,1994.0,111686
+the american president,1995.0,112346
+apollo 13,1995.0,112384
+assassins,1995.0,112401
+bad boys,1995.0,112442
+batman forever,1995.0,112462
+the brady bunch movie,1995.0,112572
+braveheart,1995.0,112573
+the bridges of madison county,1995.0,112579
+a bucket of blood,,112594
+casino,1995.0,112641
+casper,1995.0,112642
+clockers,1995.0,112688
+clueless,1995.0,112697
+copycat,1995.0,112722
+devil in a blue dress,1995.0,112857
+die hard with a vengeance,1995.0,112864
+four rooms,1995.0,113101
+friday,1995.0,113118
+full body massage,,113131
+get shorty,1995.0,113161
+goldeneye,1995.0,113189
+a goofy movie,1995.0,113198
+hackers,1995.0,113243
+halloween: the curse of michael myers,1995.0,113253
+heat,1995.0,113277
+judge dredd,1995.0,113492
+jumanji,1995.0,113497
+kids,1995.0,113540
+leaving las vegas,1995.0,113627
+living in oblivion,1995.0,113677
+lord of illusions,1995.0,113690
+mallrats,1995.0,113749
+mighty morphin power rangers,1995.0,113820
+mr. holland's opus,1995.0,113862
+nick of time,1995.0,113972
+nixon,1995.0,113987
+othello,1995.0,114057
+outbreak,1995.0,114069
+panther,1995.0,114084
+the prophecy,1995.0,114194
+the scarlet letter,1995.0,114345
+se7en,1995.0,114369
+sense and sensibility,1995.0,114388
+showgirls,1995.0,114436
+smoke,1995.0,114478
+strange days,1995.0,114558
+superfights,1996.0,114582
+three wishes,1995.0,114663
+toy story,1995.0,114709
+12 monkeys,1995.0,114746
+the usual suspects,1995.0,114814
+virtuosity,1995.0,114857
+while you were sleeping,1995.0,114924
+101 dalmatians,1996.0,115433
+bad moon,1996.0,115610
+basquiat,1996.0,115632
+beavis and butt-head do america,1996.0,115641
+the birdcage,1996.0,115685
+blood and wine,1996.0,115710
+bottle rocket,1996.0,115734
+bound,1996.0,115736
+broken arrow,1996.0,115759
+the cable guy,1996.0,115798
+courage under fire,1996.0,115956
+the craft,1996.0,115963
+the crow: city of angels,1996.0,115986
+d3: the mighty ducks,1996.0,116000
+dragonheart,1996.0,116136
+the english patient,1996.0,116209
+escape from l.a.,1996.0,116225
+executive decision,1996.0,116253
+fargo,1996.0,116282
+the frighteners,1996.0,116365
+from dusk till dawn,1996.0,116367
+the ghost and the darkness,1996.0,116409
+independence day,1996.0,116629
+the island of dr. moreau,1996.0,116654
+jerry maguire,1996.0,116695
+jingle all the way,1996.0,116705
+kingpin,1996.0,116778
+lone star,1996.0,116905
+the long kiss goodnight,1996.0,116908
+lost highway,1997.0,116922
+mars attacks!,1996.0,116996
+mission: impossible,1996.0,117060
+moebius,1996.0,117069
+the phantom,1996.0,117331
+the rock,1996.0,117500
+romeo + juliet,1996.0,117509
+scream,1996.0,117571
+shine,1996.0,117631
+sleepers,1996.0,117665
+sling blade,1996.0,117666
+star trek: first contact,1996.0,117731
+steel sharks,1997.0,117738
+swingers,1996.0,117802
+a thin line between love and hate,1996.0,117891
+tin cup,1996.0,117918
+trainspotting,1996.0,117951
+white squall,1996.0,118158
+one eight seven,1997.0,118531
+absolute power,1997.0,118548
+affliction,1997.0,118564
+air force one,1997.0,118571
+alien: resurrection,1997.0,118583
+an american werewolf in paris,1997.0,118604
+amistad,1997.0,118607
+anaconda,1997.0,118615
+anastasia,1997.0,118617
+apt pupil,1998.0,118636
+the assignment,1997.0,118647
+austin powers: international man of mystery,1997.0,118655
+batman & robin,1997.0,118688
+bean,1997.0,118689
+the big lebowski,1998.0,118715
+boogie nights,1997.0,118749
+booty call,1997.0,118750
+breakdown,1997.0,118771
+chasing amy,1997.0,118842
+con air,1997.0,118880
+conspiracy theory,1997.0,118883
+contact,1997.0,118884
+gang related,1997.0,118900
+dark city,1998.0,118929
+deep rising,1998.0,118956
+the devil's advocate,1997.0,118971
+donnie brasco,1997.0,119008
+event horizon,1997.0,119081
+face/off,1997.0,119094
+fallen,1998.0,119099
+the fifth element,1997.0,119116
+g.i. jane,1997.0,119173
+the game,1997.0,119174
+gattaca,1997.0,119177
+good will hunting,1997.0,119217
+great expectations,1998.0,119223
+grosse pointe blank,1997.0,119229
+mrs. brown,1997.0,119280
+the horse whisperer,1998.0,119314
+the ice storm,1997.0,119349
+inventing the abbotts,1997.0,119381
+jackie brown,1997.0,119396
+kundun,1997.0,119485
+l.a. confidential,1997.0,119488
+liar liar,1997.0,119528
+the lost world: jurassic park,1997.0,119567
+meet joe black,1998.0,119643
+men in black,1997.0,119654
+metro,1997.0,119664
+mimic,1997.0,119675
+my best friend's wedding,1997.0,119738
+as good as it gets,1997.0,119822
+the postman,1997.0,119925
+primary colors,1998.0,119942
+the relic,1997.0,120004
+the saint,1997.0,120053
+scream 2,1997.0,120082
+soldier,1998.0,120157
+spacejacked,,120174
+spawn,1997.0,120177
+sphere,1998.0,120184
+three kings,1999.0,120188
+starship troopers,1997.0,120201
+state and main,2000.0,120202
+suburbia,1996.0,120238
+the sweet hereafter,1997.0,120255
+a simple plan,1998.0,120324
+titanic,1997.0,120338
+tomorrow never dies,1997.0,120347
+the truman show,1998.0,120382
+u turn,1997.0,120399
+american history x,1998.0,120586
+antz,1998.0,120587
+armageddon,1998.0,120591
+being john malkovich,1999.0,120601
+beloved,1998.0,120603
+blade,1998.0,120611
+the mummy,1999.0,120616
+a bug's life,1998.0,120623
+deep impact,1998.0,120647
+dogma,1999.0,120655
+enemy of the state,1998.0,120660
+eyes wide shut,1999.0,120663
+fantastic four,2005.0,120667
+fear and loathing in las vegas,1998.0,120669
+from hell,2001.0,120681
+gods and monsters,1998.0,120684
+godzilla,1998.0,120685
+stepmom,1998.0,120686
+the green mile,1999.0,120689
+halloween h20: 20 years later,1998.0,120694
+hard rain,1998.0,120696
+"lock, stock and two smoking barrels",1998.0,120735
+the lord of the rings: the fellowship of the ring,2001.0,120737
+lost in space,1998.0,120738
+the man in the iron mask,1998.0,120744
+the mask of zorro,1998.0,120746
+mighty joe young,1998.0,120751
+mission: impossible ii,2000.0,120755
+mulan,1998.0,120762
+a night at the roxbury,1998.0,120770
+out of sight,1998.0,120780
+the parent trap,1998.0,120783
+pleasantville,1998.0,120789
+rko 281,,120801
+resident evil,2002.0,120804
+rush hour,1998.0,120812
+saving private ryan,1998.0,120815
+the shipping news,2001.0,120824
+snake eyes,1998.0,120832
+snow falling on cedars,1999.0,120834
+star trek: insurrection,1998.0,120844
+the thin red line,1998.0,120863
+wag the dog,1997.0,120885
+the wedding singer,1998.0,120888
+what dreams may come,1998.0,120889
+wild things,1998.0,120890
+wild wild west,1999.0,120891
+wrongfully accused,1998.0,120901
+the x files,1998.0,120902
+x-men,2000.0,120903
+existenz,1999.0,120907
+star wars: episode i - the phantom menace,1999.0,120915
+corpse bride,2005.0,121164
+star wars: episode ii - attack of the clones,2002.0,121765
+lethal weapon 4,1998.0,122151
+return to me,2000.0,122459
+henry fool,1997.0,122529
+ronin,1998.0,122690
+analyze this,1999.0,122933
+life,1999.0,123964
+very bad things,1998.0,124198
+blast from the past,1999.0,124298
+the cider house rules,1999.0,124315
+notting hill,1999.0,125439
+man on the moon,1999.0,125664
+shrek,2001.0,126029
+legionnaire,1998.0,126388
+election,1999.0,126886
+rounders,1998.0,128442
+rushmore,1998.0,128445
+you've got mail,1998.0,128853
+the iron giant,1999.0,129167
+there's something about mary,1998.0,129387
+i still know what you did last summer,1998.0,130018
+edtv,1999.0,131369
+tower of terror,,131620
+mystery men,1999.0,132347
+at first sight,1999.0,132512
+the crow: salvation,2000.0,132910
+the matrix,1999.0,133093
+planet of the apes,2001.0,133152
+the faculty,1998.0,133751
+the siege,1998.0,133952
+scream 3,2000.0,134084
+the talented mr. ripley,1999.0,134119
+8mm,1999.0,134273
+pitch black,2000.0,134847
+entrapment,1999.0,137494
+fight club,1999.0,137523
+nightbirds,1970.0,137982
+shakespeare in love,1998.0,138097
+intolerable cruelty,2003.0,138524
+pi,1998.0,138704
+cherry,1999.0,139112
+cruel intentions,1999.0,139134
+go,1999.0,139239
+lake placid,1999.0,139414
+training day,2001.0,139654
+true crime,1999.0,139668
+the insider,1999.0,140352
+mumford,1999.0,140397
+route 9,,140519
+the corruptor,1999.0,142192
+the ninth gate,1999.0,142688
+the world is not enough,1999.0,143145
+american psycho,2000.0,144084
+the boondock saints,1999.0,144117
+committed,2000.0,144142
+the general's daughter,1999.0,144214
+the rage: carrie 2,1999.0,144814
+highlander: endgame,2000.0,144964
+little men,1998.0,145048
+spider-man,2002.0,145487
+austin powers: the spy who shagged me,1999.0,145660
+thirteen days,2000.0,146309
+lara croft: tomb raider,2001.0,146316
+end of days,1999.0,146675
+any given sunday,1999.0,146838
+high fidelity,2000.0,146882
+happiness,1998.0,147612
+10 things i hate about you,1999.0,147800
+the messenger: the story of joan of arc,1999.0,151137
+never been kissed,1999.0,151738
+office space,1999.0,151804
+following,1998.0,154506
+drop dead gorgeous,1999.0,157503
+"south park: bigger, longer & uncut",1999.0,158983
+cold mountain,2003.0,159365
+croupier,1998.0,159382
+charlie's angels,2000.0,160127
+lost souls,2000.0,160484
+what lies beneath,2000.0,161081
+cast away,2000.0,162222
+ghost world,2001.0,162346
+sleepy hollow,1999.0,162661
+jurassic park iii,2001.0,163025
+runaway bride,1999.0,163187
+chill factor,1999.0,163579
+american pie,1999.0,163651
+the beach,2000.0,163978
+bringing out the dead,1999.0,163988
+hollow man,2000.0,164052
+sidewalks of new york,1923.0,164167
+stir of echoes,1999.0,164181
+highway,2002.0,165361
+detroit rock city,1999.0,165710
+the limey,1999.0,165854
+romeo must die,2000.0,165929
+bones,2001.0,166110
+monkeybone,2001.0,166276
+the straight story,1999.0,166896
+mulholland drive,2001.0,166924
+music of the heart,1999.0,166943
+hellboy,2004.0,167190
+the lord of the rings: the return of the king,2003.0,167260
+the lord of the rings: the two towers,2002.0,167261
+the sixth sense,1999.0,167404
+thunderbirds,2004.0,167456
+lagaan: once upon a time in india,2001.0,169102
+american beauty,1999.0,169547
+how the grinch stole christmas,2000.0,170016
+the haunting,1999.0,171363
+nurse betty,2000.0,171580
+boys don't cry,1999.0,171804
+gladiator,2000.0,172495
+cecil b. demented,2000.0,173716
+autumn in new york,2000.0,174480
+scary movie,2000.0,175142
+cherry falls,2000.0,175526
+magnolia,1999.0,175880
+sandman,1998.0,176118
+my mother dreams the satan's disciples in new york,1998.0,177023
+galaxy quest,1999.0,177789
+the perfect storm,2000.0,177971
+ringu,1998.0,178868
+15 minutes,2001.0,179626
+quills,2000.0,180073
+requiem for a dream,2000.0,180093
+minority report,2002.0,181689
+terminator 3: rise of the machines,2003.0,181852
+traffic,2000.0,181865
+almost famous,2000.0,181875
+boiler room,2000.0,181984
+mission to mars,2000.0,183523
+phone booth,2002.0,183649
+a knight's tale,2001.0,183790
+reindeer games,2000.0,184858
+wonder boys,2000.0,185014
+battlefield earth,2000.0,185183
+house on haunted hill,1999.0,185371
+little nicky,2000.0,185431
+the base,,185908
+frequency,2000.0,186151
+space cowboys,2000.0,186566
+sugar & spice,2001.0,186589
+gone in 60 seconds,2000.0,187078
+the patriot,2000.0,187393
+blade ii,2002.0,187738
+birthday girl,2001.0,188453
+"crouching tiger, hidden dragon",2000.0,190332
+"o brother, where art thou?",2000.0,190590
+the replacements,2000.0,191397
+the star wars holiday special,,193524
+erin brockovich,2000.0,195685
+final destination,2000.0,195714
+next friday,2000.0,195945
+ticker,2001.0,196158
+"monsters, inc.",2001.0,198781
+love & basketball,2000.0,199725
+red planet,2000.0,199753
+plastic man,,200365
+you can count on me,2000.0,203230
+save the last dance,2001.0,206275
+children of men,2006.0,206634
+what women want,2000.0,207201
+snatch,2000.0,208092
+get carter,2000.0,208988
+memento,2000.0,209144
+the mummy returns,2001.0,209163
+the cell,2000.0,209958
+ginger snaps,2000.0,210070
+happy campers,2001.0,210094
+fortune cookie,1999.0,210688
+if i had a hammer,1999.0,210742
+jason x,2001.0,211443
+amélie,2001.0,211915
+awake,2007.0,211933
+a.i. artificial intelligence,2001.0,212720
+hannibal,2001.0,212985
+pearl harbor,2001.0,213149
+bamboozled,2000.0,215545
+gangs of new york,2002.0,217505
+unbreakable,2000.0,217869
+antitrust,2001.0,218817
+the family man,2000.0,218967
+human nature,2001.0,219822
+halloween: resurrection,2002.0,220506
+blow,2001.0,221027
+chasing sleep,2000.0,221069
+fogg's millions,1914.0,221183
+seven days to live,2000.0,221928
+angel eyes,2001.0,225071
+made,2001.0,227005
+spy kids,2001.0,227538
+proof of life,2000.0,228750
+book of shadows: blair witch 2,2000.0,229260
+the others,2001.0,230600
+sweet november,2001.0,230838
+the fast and the furious,2001.0,232500
+collateral damage,2002.0,233469
+the matrix reloaded,2003.0,234215
+pilot,,235326
+the salton sea,2002.0,235737
+queen of the damned,2002.0,238546
+bloody murder,,240380
+five feet high and rising,2000.0,240507
+the four feathers,2002.0,240510
+ocean's eleven,2001.0,240772
+slackers,2002.0,240900
+harry potter and the sorcerer's stone,2001.0,241527
+the matrix revolutions,2003.0,242653
+valentine,2001.0,242998
+the man who wasn't there,2001.0,243133
+bridget jones's diary,2001.0,243155
+stuart little 2,2002.0,243585
+american outlaws,2001.0,244000
+swordfish,2001.0,244244
+thir13en ghosts,2001.0,245674
+donnie darko,2001.0,246578
+the believer,2001.0,247199
+in the bedroom,2001.0,247425
+ali,2001.0,248667
+a labor of love,1976.0,249672
+storytelling,2001.0,250081
+legally blonde,2001.0,250494
+carnivore,2000.0,251005
+evolution,2001.0,251075
+john q,2002.0,251160
+christmas at pee-wee's playhouse,,251640
+house of 1000 corpses,2003.0,251736
+heist,2001.0,252503
+the bunker,2001.0,252963
+the pianist,2002.0,253474
+star trek: nemesis,2002.0,253754
+the anniversary party,2001.0,254099
+baby boy,2001.0,255819
+possession,2002.0,256276
+road to perdition,2002.0,257044
+scary movie 2,2001.0,257106
+panic room,2002.0,258000
+s1m0ne,2002.0,258153
+the bourne identity,2002.0,258463
+ghost rider,2007.0,259324
+vanilla sky,2001.0,259711
+taking sides,2001.0,260414
+jay and silent bob strike back,2001.0,261392
+george washington,2000.0,262432
+jeepers creepers,2001.0,263488
+2001 maniacs,2005.0,264323
+basic,2003.0,264395
+catch me if you can,2002.0,264464
+frailty,2001.0,264616
+life as a house,2001.0,264796
+the rookie,2002.0,265662
+the royal tenenbaums,2001.0,265666
+death to smoochy,2002.0,266452
+finding nemo,2003.0,266543
+kill bill: vol. 1,2003.0,266697
+rush hour 2,2001.0,266915
+adaptation.,2002.0,268126
+the time machine,2002.0,268695
+a beautiful mind,2001.0,268978
+the majestic,2001.0,268995
+confessions of a dangerous mind,2002.0,270288
+eight legged freaks,2002.0,271367
+the last castle,2001.0,272020
+k-pax,2001.0,272152
+punch-drunk love,2002.0,272338
+hellraiser: hellseeker,,274546
+below,2002.0,276816
+i am sam,2001.0,277027
+enough,2002.0,278435
+insomnia,2002.0,278504
+the good girl,2002.0,279113
+a walk to remember,2002.0,281358
+they,2002.0,283632
+monster's ball,2001.0,285742
+signs,2002.0,286106
+stolen summer,2002.0,286162
+who's your daddy?,,287138
+daredevil,2003.0,287978
+ghost ship,2002.0,288477
+28 days later,2002.0,289043
+red dragon,2002.0,289765
+analyze that,2002.0,289848
+the butterfly effect,2004.0,289879
+the life of david gale,2003.0,289992
+the rules of attraction,2002.0,292644
+metropolis,2001.0,293416
+the phantom of the opera,2004.0,293508
+rent,2005.0,294870
+austin powers in goldmember,2002.0,295178
+harry potter and the chamber of secrets,2002.0,295297
+xxx,2002.0,295701
+star wars: the empire strikes back,,296869
+far from heaven,2002.0,297884
+the ring,2002.0,298130
+8 mile,2002.0,298203
+hero,2002.0,299977
+slash,2002.0,301848
+barely legal,2003.0,302297
+531,2001.0,303593
+barbershop,2002.0,303714
+bloody murder 2: closing camp,,303732
+harry potter and the prisoner of azkaban,2004.0,304141
+american splendor,2003.0,305206
+cradle 2 the grave,2003.0,306685
+solaris,2002.0,307479
+burning annie,2004.0,307879
+25th hour,2002.0,307901
+bad santa,2003.0,307987
+the human stain,2003.0,308383
+final destination 2,2003.0,309593
+willard,2003.0,310357
+confidence,2003.0,310910
+crime spree,2003.0,310924
+master and commander: the far side of the world,2003.0,311113
+love actually,2003.0,314331
+bruce almighty,2003.0,315327
+spider-man 2,2004.0,316654
+the hebrew hammer,2003.0,317640
+the incredibles,2004.0,317705
+the italian job,2003.0,317740
+mission: impossible iii,2006.0,317919
+the cooler,2003.0,318374
+big fish,2003.0,319061
+elf,2003.0,319343
+underworld,2003.0,320691
+2 fast 2 furious,2003.0,322259
+suspect zero,2004.0,324127
+the last samurai,2003.0,325710
+matchstick men,2003.0,325805
+pirates of the caribbean: the curse of the black pearl,2003.0,325980
+secondhand lions,2003.0,327137
+catwoman,2004.0,327554
+coraline,2009.0,327597
+malibu's most wanted,2003.0,328099
+man on fire,2004.0,328107
+thirteen,2003.0,328538
+dumb and dumberer: when harry met lloyd,2003.0,329028
+freddy vs. jason,2003.0,329101
+harry potter and the goblet of fire,2005.0,330373
+troy,2004.0,332452
+garden state,2004.0,333766
+girl with a pearl earring,2003.0,335119
+the ladykillers,2004.0,335245
+lost in translation,2003.0,335266
+the passion of the christ,2004.0,335345
+hellraiser: deader,,337636
+something's gotta give,2003.0,337741
+cellular,2004.0,337921
+eternal sunshine of the spotless mind,2004.0,338013
+grand theft parsons,2003.0,338075
+the haunted mansion,2003.0,338094
+van helsing,2004.0,338526
+the aviator,2004.0,338751
+encrypt,,338963
+hostage,2005.0,340163
+monster,2003.0,340855
+the good shepherd,2006.0,343737
+"i, robot",2004.0,343818
+howl's moving castle,2004.0,347149
+gothika,2003.0,348836
+ocean's twelve,2004.0,349903
+walking tall,2004.0,351977
+cinderella man,2005.0,352248
+memories of murder,2003.0,353969
+mr. & mrs. smith,2005.0,356910
+anchorman: the legend of ron burgundy,2004.0,357413
+the battle of shaker heights,2003.0,357470
+blade: trinity,2004.0,359013
+the secret life of walter mitty,2013.0,359950
+spartan,2004.0,360009
+constantine,2005.0,360486
+king kong,2005.0,360717
+the woodsman,2004.0,361127
+inglourious basterds,2009.0,361748
+the box,2009.0,362478
+fear of clowns,,362636
+new york minute,2004.0,363282
+asylum,2003.0,363445
+dawn of the dead,2004.0,363547
+secret window,2004.0,363988
+taking lives,2004.0,364045
+the matador,2005.0,365485
+syriana,2005.0,365737
+shaun of the dead,2004.0,365748
+whiteout,2009.0,365929
+happy feet,2006.0,366548
+harold & kumar go to white castle,2004.0,366551
+the jacket,2005.0,366627
+the squid and the whale,2005.0,367089
+indiana jones and the kingdom of the crystal skull,2008.0,367882
+the manchurian candidate,2004.0,368008
+the room,2003.0,368226
+the village,2004.0,368447
+national treasure,2004.0,368891
+alone in the dark,2005.0,369226
+collateral,2004.0,369339
+alien vs. predator,2004.0,370263
+spanglish,2004.0,371246
+stay,2005.0,371257
+the hitchhiker's guide to the galaxy,2005.0,371724
+iron man,2008.0,371746
+the bourne supremacy,2004.0,372183
+the wedding date,2005.0,372532
+team america: world police,2004.0,372588
+batman begins,2005.0,372784
+kiss kiss bang bang,2005.0,373469
+harry potter and the order of the phoenix,2007.0,373889
+the interpreter,2005.0,373926
+munna bhai m.b.b.s.,2003.0,374887
+napoleon dynamite,2004.0,374900
+sideways,2004.0,375063
+tristan + isolde,2006.0,375154
+crash,2004.0,375679
+sexual life,2004.0,376874
+mean girls,2004.0,377092
+dead birds,2004.0,377749
+kill bill: vol. 2,2004.0,378194
+capote,2005.0,379725
+serenity,2005.0,379786
+the lovely bones,2009.0,380510
+casino royale,2006.0,381061
+special,2003.0,381613
+3:10 to yuma,2007.0,381849
+planetfall,2005.0,382910
+ratatouille,2007.0,382932
+"synecdoche, new york",2008.0,383028
+pirates of the caribbean: dead man's chest,2006.0,383574
+ask the dust,2006.0,384814
+motherless brooklyn,2019.0,385887
+where the wild things are,2009.0,386117
+the legend of zorro,2005.0,386140
+saw,2004.0,387564
+idiocracy,2006.0,387808
+the black dahlia,2006.0,387877
+brokeback mountain,2005.0,388795
+30 days of night,2007.0,389722
+bee movie,2007.0,389790
+click,2006.0,389860
+maria full of grace,2004.0,390221
+the grudge,2004.0,391198
+brick,2005.0,393109
+hotel rwanda,2004.0,395169
+the devil's rejects,2005.0,395584
+the pacifier,2005.0,395699
+wedding crashers,2005.0,396269
+the skeleton key,2005.0,397101
+memoirs of a geisha,2005.0,397535
+assault on precinct 13,2005.0,398712
+a history of violence,2005.0,399146
+the island,2005.0,399201
+lord of war,2005.0,399295
+the diving bell and the butterfly,2007.0,401383
+breach,2007.0,401997
+the new world,2005.0,402399
+the big white,2005.0,402850
+chaos,2005.0,402910
+night watch,2004.0,403358
+perfect creature,2006.0,403407
+youth in revolt,2009.0,403702
+the 40-year-old virgin,2005.0,405422
+rang de basanti,2006.0,405508
+all the king's men,2006.0,405676
+zathura: a space adventure,2005.0,406375
+war of the worlds,2005.0,407304
+battlestar galactica,,407362
+complete guide to guys,2005.0,407680
+the departed,2006.0,407887
+sweeney todd: the demon barber of fleet street,2007.0,408236
+flightplan,2005.0,408790
+last holiday,2006.0,408985
+watchmen,2009.0,409459
+cowboys & aliens,2011.0,409847
+hustle & flow,2005.0,410097
+hellboy ii: the golden army,2008.0,411477
+shrek the third,2007.0,413267
+elizabeth: the golden age,2007.0,414055
+pride & prejudice,2005.0,414387
+talladega nights: the ballad of ricky bobby,2006.0,415306
+match point,2005.0,416320
+300,2006.0,416449
+crazylove,2005.0,416658
+two for the money,2005.0,417217
+12 and holding,2005.0,417385
+harry potter and the half-blood prince,2009.0,417741
+little athens,2005.0,417907
+the surfer king,2006.0,418206
+transformers,2007.0,418279
+jarhead,2005.0,418763
+land of the dead,2005.0,418819
+doom,2005.0,419706
+stranger than fiction,2006.0,420223
+domino,2005.0,421054
+zerophilia,2005.0,421090
+red eye,2005.0,421239
+the curious case of benjamin button,2008.0,421715
+warm springs,,423510
+charlie bartlett,2007.0,423977
+clerks ii,2006.0,424345
+game 6,2005.0,425055
+hot fuzz,2007.0,425112
+jimmy and judy,2006.0,425151
+lucky number slevin,2006.0,425210
+mini's first time,2006.0,425253
+feast,2005.0,426459
+dinner for schmucks,2010.0,427152
+thank you for smoking,2005.0,427944
+get rich or die tryin',2005.0,430308
+miami vice,2006.0,430357
+basic instinct 2,2006.0,430912
+the kingdom,2007.0,431197
+fantastic mr. fox,2009.0,432283
+v for vendetta,2005.0,434409
+the descent,2005.0,435625
+the giver,2014.0,435651
+next,2007.0,435705
+toy story 3,2010.0,435761
+the queen,2006.0,436697
+terminator salvation,2009.0,438488
+slither,2006.0,439815
+the bourne ultimatum,2007.0,440963
+kung fu panda,2008.0,441773
+beowulf,2007.0,442933
+lincoln,2012.0,443272
+vantage point,2008.0,443274
+"10,000 bc",2008.0,443649
+the assassination of jesse james by the coward robert ford,2007.0,443680
+zodiac,2007.0,443706
+blades of glory,2006.0,445934
+the burrowers,2008.0,445939
+scott pilgrim vs. the world,2010.0,446029
+sunshine,2007.0,448134
+hancock,2008.0,448157
+wild things: diamonds in the rough,,448179
+little miss sunshine,2006.0,449059
+dominion,2005.0,449086
+pirates of the caribbean: at world's end,2007.0,449088
+babel,2006.0,449467
+passengers,2008.0,449487
+16 blocks,2006.0,450232
+blood diamond,2006.0,450259
+hostel,2005.0,450278
+1408,2007.0,450385
+cirque du freak: the vampire's assistant,2009.0,450405
+wonder woman,2017.0,451279
+gone baby gone,2007.0,452623
+lady in the water,2006.0,452637
+the time traveler's wife,2009.0,452694
+vacancy,2007.0,452702
+tmnt,2007.0,453556
+42,2013.0,453562
+black christmas,2006.0,454082
+the hills have eyes,2006.0,454841
+life of pi,2012.0,454876
+the pursuit of happyness,2006.0,454921
+the crazies,2010.0,455407
+how to lose friends & alienate people,2008.0,455538
+john tucker must die,2006.0,455967
+pan's labyrinth,2006.0,457430
+the holiday,2006.0,457939
+captain america: the first avenger,2011.0,458339
+the devil wears prada,2006.0,458352
+a long way down,2014.0,458413
+el cantante,2006.0,458522
+x-men origins: wolverine,2009.0,458525
+black snake moan,2006.0,462200
+how to eat fried worms,2006.0,462346
+28 weeks later,2007.0,463854
+piranha 3d,2010.0,464154
+severance,2006.0,464196
+michael clayton,2007.0,465538
+margaret,2011.0,466893
+max payne,2008.0,467197
+the other boleyn girl,2008.0,467200
+juno,2007.0,467406
+the dark knight,2008.0,468569
+red white black & blue,2006.0,469169
+"sorry, right number",2005.0,469188
+there will be blood,2007.0,469494
+things we lost in the fire,2007.0,469623
+ex machina,2014.0,470752
+tower heist,2011.0,471042
+9,2009.0,472033
+charlie wilson's war,2007.0,472062
+the smurfs,2011.0,472181
+notorious,2009.0,472198
+the mechanic,2011.0,472399
+prince of persia: the sands of time,2010.0,473075
+state of play,2009.0,473705
+"hail, caesar!",2016.0,475290
+smokin' aces,2006.0,475394
+the brave one,2007.0,476964
+rocket science,2007.0,477078
+no country for old men,2007.0,477348
+in the valley of elah,2007.0,478134
+the tree of life,2011.0,478304
+knocked up,2007.0,478311
+rocky balboa,2006.0,479143
+crank,2006.0,479884
+last time forever,2006.0,479942
+season of the witch,2011.0,479997
+i am legend,2007.0,480249
+the losers,2010.0,480255
+hall pass,2011.0,480687
+the croods,2013.0,481499
+the prestige,2006.0,482571
+the strangers,2008.0,482606
+mr. nobody,2009.0,485947
+wind chill,2007.0,486051
+stardust,2007.0,486655
+disturbia,2007.0,486822
+wild hogs,2007.0,486946
+fracture,2007.0,488120
+12,2007.0,488478
+my name is bruce,2007.0,489235
+all the boys love mandy lane,2006.0,490076
+silence,2016.0,490215
+something borrowed,2011.0,491152
+suburbicon,2017.0,491175
+away from her,2006.0,491747
+wanted,2008.0,493464
+vicky cristina barcelona,2008.0,497465
+we own the night,2007.0,498399
+avatar,2009.0,499549
+the man of steel bars,,635199
+margot at the wedding,2007.0,757361
+love & other drugs,2010.0,758752
+into the wild,2007.0,758758
+body of lies,2008.0,758774
+custody,,759956
+planet 51,2009.0,762125
+american gangster,2007.0,765429
+eastern promises,2007.0,765443
+the savages,2007.0,775529
+drive,2011.0,780504
+in bruges,2008.0,780536
+mr. brooks,2007.0,780571
+atonement,2007.0,783233
+the boxtrolls,2014.0,787474
+dallas buyers club,2013.0,790636
+mirrors,2008.0,790686
+the messenger,2009.0,790712
+normal adolescent behavior,2007.0,790721
+jack reacher,2012.0,790724
+miles ahead,2015.0,790770
+case 39,2009.0,795351
+death at a funeral,2007.0,795368
+lost easily horizons,2009.0,795438
+scary movie v,2013.0,795461
+star trek,2009.0,796366
+forgetting sarah marshall,2008.0,800039
+the incredible hulk,2008.0,800080
+deception,2008.0,800240
+clash of the titans,2010.0,800320
+thor,2011.0,800369
+death sentence,2007.0,804461
+it's kind of a funny story,2010.0,804497
+rendition,2007.0,804522
+lars and the real girl,2007.0,805564
+angels & demons,2009.0,808151
+bright star,2009.0,810784
+the danish girl,2015.0,810819
+the nines,2007.0,810988
+speed racer,2008.0,811080
+percy jackson & the olympians: the lightning thief,2010.0,814255
+she's out of my league,2010.0,815236
+conan the barbarian,2011.0,816462
+interstellar,2014.0,816692
+flipped,2010.0,817177
+the tattooist,2007.0,817228
+valentine's day,2010.0,817230
+marley & me,2008.0,822832
+priest,2011.0,822847
+changeling,2008.0,824747
+the last station,2009.0,824758
+the bucket list,2007.0,825232
+honeydripper,2007.0,829193
+superbad,2007.0,829482
+godzilla,2014.0,831387
+reservation road,2007.0,831884
+pet sematary,2019.0,837563
+after.life,2009.0,838247
+step brothers,2008.0,838283
+semi-pro,2008.0,839980
+the town,2010.0,840361
+walk hard: the dewey cox story,2007.0,841046
+the kids are all right,2010.0,842926
+the brothers bloom,2008.0,844286
+cloudy with a chance of meatballs,2009.0,844471
+all god's children can dance,2008.0,847214
+the avengers,2012.0,848228
+the house bunny,2008.0,852713
+the visitor,2007.0,857191
+timber falls,2007.0,857295
+the mummy: tomb of the dragon emperor,2008.0,859163
+sunshine cleaning,2008.0,862846
+trick 'r treat,2007.0,862856
+frost/nixon,2008.0,870111
+nine,2009.0,875034
+the blind side,2009.0,878804
+please give,2010.0,878835
+untraceable,2008.0,880578
+all about steve,2009.0,881891
+burn after reading,2008.0,887883
+the hurt locker,2008.0,887912
+while she was out,2008.0,887971
+letters to juliet,2010.0,892318
+how to train your dragon,2010.0,892769
+the whistleblower,2010.0,896872
+the road,2009.0,898367
+pineapple express,2008.0,910936
+wall·e,2008.0,910970
+armored,2009.0,913354
+broken embraces,2009.0,913425
+44 inch chest,2009.0,914837
+unthinkable,2010.0,914863
+doubt,2008.0,918927
+harry potter and the deathly hallows: part 1,2010.0,926084
+precious,2009.0,929632
+rabbit hole,2010.0,935075
+the last airbender,2010.0,938283
+tropic thunder,2008.0,942385
+salt,2010.0,944835
+source code,2011.0,945513
+black swan,2010.0,947798
+the happening,2008.0,949731
+revolutionary road,2008.0,959337
+the ruins,2008.0,963794
+the fighter,2010.0,964517
+the conspirator,2010.0,968264
+hugo,2011.0,970179
+solomon kane,2009.0,970452
+creation,2009.0,974014
+17 again,2009.0,974661
+hitchcock,2012.0,975645
+the reader,2008.0,976051
+fair game,2010.0,977855
+frozen river,2008.0,978759
+nick and norah's infinite playlist,2008.0,981227
+the adventures of tintin,2011.0,983193
+machete,2010.0,985694
+valkyrie,2008.0,985699
+surrogates,2009.0,986263
+sherlock holmes,2009.0,988045
+dear john,2010.0,989757
+sugar,2008.0,990413
+hanna,2011.0,993842
+the wolf of wall street,2013.0,993846
+sex and the city,2008.0,1000774
+he's just not that into you,2009.0,1001508
+megamind,2010.0,1001526
+the little things,2021.0,10016180
+the humans,2021.0,10023286
+2:13,2009.0,1002561
+antebellum,2020.0,10065694
+the iron lady,2011.0,1007029
+the tragedy of macbeth,2021.0,10095582
+slumdog millionaire,2008.0,1010048
+knight and day,2010.0,1013743
+milk,2008.0,1013753
+alice in wonderland,2010.0,1014759
+train,2008.0,1015474
+all quiet on the western front,2022.0,1016150
+bones and all,2022.0,10168670
+splice,2009.0,1017460
+a serious man,2009.0,1019452
+selma,2014.0,1020072
+500 days of summer,2009.0,1022603
+the way back,2010.0,1023114
+i'm your woman,2020.0,10243992
+argo,2012.0,1024648
+land,2021.0,10265034
+the father,2020.0,10272386
+work it,2020.0,10276470
+wall street: money never sleeps,2010.0,1027718
+french exit,2020.0,10279362
+death proof,2007.0,1028528
+the power of the dog,2021.0,10293406
+amsterdam,2022.0,10304142
+rocknrolla,2008.0,1032755
+the descendants,2011.0,1033575
+gamer,2009.0,1034032
+armageddon time,2022.0,10343028
+suspiria,2018.0,1034415
+coda,2021.0,10366460
+the book of eli,2010.0,1037705
+legion,2010.0,1038686
+the bounty hunter,2010.0,1038919
+the proposal,2009.0,1041829
+nine days,2020.0,10451852
+silver linings playbook,2012.0,1045658
+happy-go-lucky,2008.0,1045670
+i love you phillip morris,2009.0,1045772
+year one,2009.0,1045778
+g.i. joe: the rise of cobra,2009.0,1046173
+last chance harvey,2008.0,1046947
+up,2009.0,1049413
+made for each other,2009.0,1051241
+the midnight sky,2020.0,10539608
+the imaginarium of doctor parnassus,2009.0,1054606
+invictus,2009.0,1057500
+the invention of lying,2009.0,1058017
+eagle eye,2008.0,1059786
+cloverfield,2008.0,1060277
+one night in miami...,2020.0,10612922
+mank,2020.0,10618286
+minari,2020.0,10633456
+babylon,2022.0,10640346
+boyhood,2014.0,1065073
+halloween kills,2021.0,10665338
+water for elephants,2011.0,1067583
+monte carlo,2011.0,1067774
+i've loved you so long,2008.0,1068649
+yes man,2008.0,1068680
+the electrical life of louis wain,2021.0,10687506
+the harder they fall,2021.0,10696784
+the trial of the chicago 7,2020.0,1070874
+the descent: part 2,2009.0,1073105
+don't worry darling,2022.0,10731256
+skyfall,2012.0,1074638
+jonah hex,2010.0,1075747
+eddie the eagle,2015.0,1083452
+rachel getting married,2008.0,1084950
+the hole,2009.0,1085779
+bill & ted face the music,2020.0,1086064
+spider-man: no way home,2021.0,10872600
+lone survivor,2013.0,1091191
+adventureland,2009.0,1091722
+paul,2011.0,1092026
+nanny,2022.0,10931784
+nope,2022.0,10954984
+c'mon c'mon,2021.0,10986222
+twilight,2008.0,1099212
+foxcatcher,2014.0,1100089
+tron: legacy,2010.0,1104001
+shifty,2008.0,1104126
+dirty girl,2010.0,1107319
+spirit untamed,2021.0,11084896
+the northman,2022.0,11138512
+the card counter,2021.0,11196036
+the hangover,2009.0,1119646
+blue valentine,2010.0,1120985
+house of gucci,2021.0,11214590
+the ides of march,2011.0,1124035
+scream,2022.0,11245972
+the wrestler,2008.0,1125849
+big eyes,2014.0,1126590
+burlesque,2010.0,1126591
+drag me to hell,2009.0,1127180
+sin nombre,2009.0,1127715
+master,2022.0,11286210
+don't look up,2021.0,11286314
+amelia,2009.0,1129445
+the informant!,2009.0,1130080
+shutter island,2010.0,1130884
+jennifer's body,2009.0,1131734
+green lantern,2011.0,1133985
+duplicity,2009.0,1135487
+sex drive,2008.0,1135985
+i carry you with me,2020.0,11388990
+mass,2021.0,11389748
+the unborn,2009.0,1139668
+strawberry mansion,2021.0,11398346
+frankenweenie,2012.0,1142977
+the ugly truth,2009.0,1142988
+the final destination,2009.0,1144884
+orphan,2009.0,1148204
+the white ribbon,2009.0,1149362
+public enemies,2009.0,1152836
+8-bit christmas,2021.0,11540284
+"i love you, man",2009.0,1155056
+zombieland,2009.0,1156398
+glass onion,2022.0,11564570
+dune,2021.0,1160419
+the hobbit: the desolation of smaug,2013.0,1170358
+whip it,2009.0,1172233
+catherine called birdy,2022.0,11727866
+city island,2009.0,1174730
+an education,2009.0,1174732
+a hero,2021.0,11777738
+paranormal activity,2007.0,1179904
+10 cloverfield lane,2016.0,1179933
+the banshees of inisherin,2022.0,11813216
+moon,2009.0,1182345
+ninja assassin,2009.0,1186367
+3 idiots,2009.0,1187043
+pandorum,2009.0,1188729
+the lincoln lawyer,2011.0,1189340
+2012,2009.0,1190080
+up in the air,2009.0,1193138
+get low,2009.0,1194263
+diary of a wimpy kid,2010.0,1196141
+law abiding citizen,2009.0,1197624
+observe and report,2009.0,1197628
+obsessed,2009.0,1198138
+funny people,2009.0,1201167
+harry potter and the deathly hallows: part 2,2011.0,1201607
+ouija,2014.0,1204977
+gran torino,2008.0,1205489
+moneyball,2011.0,1210166
+the lone ranger,2013.0,1210819
+the lost city of z,2016.0,1212428
+the back-up plan,2010.0,1212436
+first man,2018.0,1213641
+the world's end,2013.0,1213663
+cars 2,2011.0,1216475
+kill the messenger,2014.0,1216491
+leap year,2010.0,1216492
+battle los angeles,2011.0,1217613
+limitless,2011.0,1219289
+the fourth kind,2009.0,1220198
+i hope they serve beer in hell,2009.0,1220628
+henry's crime,2010.0,1220888
+extract,2009.0,1225822
+thirteen lives,2022.0,12262116
+get him to the greek,2010.0,1226229
+the damned united,2009.0,1226271
+the debt,2010.0,1226753
+in the loop,2009.0,1226774
+beautiful boy,2018.0,1226837
+dr. horrible's sing-along blog,,1227926
+let me in,2010.0,1228987
+those who walk away,2022.0,12292206
+jane eyre,2011.0,1229822
+it's complicated,2009.0,1230414
+s. darko,2009.0,1231277
+hot tub time machine,2010.0,1231587
+that's my boy,2012.0,1232200
+sorority row,2009.0,1232783
+21 jump street,2012.0,1232829
+pariah,2011.0,1233334
+the men who stare at goats,2009.0,1234548
+greenberg,2010.0,1234654
+death note,2017.0,1241317
+i spit on your grave,2010.0,1242432
+we need to talk about kevin,2011.0,1242460
+the tourist,2010.0,1243957
+red,2010.0,1245526
+kick-ass,2010.0,1250777
+middle men,2009.0,1251757
+emancipation,2022.0,12530246
+spencer,2021.0,12536294
+the cabin in the woods,2011.0,1259521
+den of thieves,2018.0,1259528
+the twilight saga: new moon,2009.0,1259571
+parallel mothers,2021.0,12618926
+scream 4,2011.0,1262416
+paradise,2013.0,1262990
+the roommate,2011.0,1265990
+nowhere boy,2009.0,1266029
+malcolm & marie,2021.0,12676326
+the hand of god,2021.0,12680684
+2 guns,2013.0,1272878
+under the mountain,2009.0,1275861
+looper,2012.0,1276104
+jack goes boating,2010.0,1278379
+belfast,2021.0,12789558
+date night,2010.0,1279935
+encounter,2021.0,12800524
+luca,2021.0,12801262
+easy a,2010.0,1282140
+bad teacher,2011.0,1284575
+the social network,2010.0,1285016
+evil dead,2013.0,1288558
+cyrano,2021.0,12889404
+warrior,2011.0,1291584
+solitary man,2009.0,1294213
+pirates of the caribbean: on stranger tides,2011.0,1298650
+the boondock saints ii: all saints day,2009.0,1300851
+the irishman,2019.0,1302006
+50/50,2011.0,1306980
+kill your darlings,2013.0,1311071
+animal kingdom,2010.0,1313092
+my policeman,2022.0,13139228
+borat subsequent moviefilm,2020.0,13143964
+rise of the planet of the apes,2011.0,1318514
+the expendables,2010.0,1320253
+swan song,2021.0,13207508
+death at a funeral,2010.0,1321509
+oldboy,2013.0,1321511
+the beaver,2011.0,1321860
+august: osage county,2013.0,1322269
+frozen,2010.0,1323045
+despicable me,2010.0,1323594
+the butler,2013.0,1327773
+never let me go,2010.0,1334260
+arthur,2011.0,1334512
+terminator genisys,2015.0,1340138
+fresh,2022.0,13403046
+tinker tailor soldier spy,2011.0,1340800
+four lions,2010.0,1341167
+how do you know,2010.0,1341188
+the great gatsby,2013.0,1343092
+dredd,2012.0,1343727
+red rocket,2021.0,13453006
+the dark knight rises,2012.0,1345836
+butter,2011.0,1349451
+passengers,2016.0,1355644
+jockey,2021.0,13559026
+beasts of no nation,2015.0,1365050
+emergency,2022.0,13650600
+tomb raider,2018.0,1365519
+women talking,2022.0,13669038
+cloud atlas,2012.0,1371111
+coriolanus,2011.0,1372686
+inception,2010.0,1375666
+the whale,2022.0,13833688
+the adjustment bureau,2011.0,1385826
+the other guys,2010.0,1386588
+downsizing,2017.0,1389072
+mad max: fury road,2015.0,1392190
+prisoners,2013.0,1392214
+it,2017.0,1396484
+straight outta compton,2015.0,1398426
+winter's bone,2010.0,1399683
+unknown,2011.0,1401152
+hesher,2010.0,1403177
+true grit,2010.0,1403865
+remember me,2010.0,1403981
+celeste & jesse forever,2012.0,1405365
+for colored girls,2010.0,1405500
+men in black 3,2012.0,1409024
+no strings attached,2011.0,1411238
+the best exotic marigold hotel,2011.0,1412386
+the fabelmans,2022.0,14208870
+somewhere,2010.0,1421051
+predators,2010.0,1424381
+deadpool,2016.0,1431045
+another year,2010.0,1431181
+lady chatterley's lover,2022.0,14369780
+cha cha real smooth,2022.0,14376344
+fright night,2011.0,1438176
+charlie st. cloud,2010.0,1438254
+empire of light,2022.0,14402146
+submarine,2010.0,1440292
+the american,2010.0,1440728
+martha marcy may marlene,2011.0,1441326
+under the skin,2013.0,1441395
+quartet,2012.0,1441951
+tár,2022.0,14444726
+the son,2022.0,14458442
+rise of the guardians,2012.0,1446192
+prometheus,2012.0,1446714
+monsters university,2013.0,1453405
+the help,2011.0,1454029
+gravity,2013.0,1454468
+the conjuring,2013.0,1457767
+the next three days,2010.0,1458175
+buried,2010.0,1462758
+i am number four,2011.0,1464540
+baywatch,2017.0,1469304
+macgruber,2010.0,1470023
+bridget jones's baby,2016.0,1473832
+cedar rapids,2011.0,1477837
+hyde park on hudson,2012.0,1477855
+bridesmaids,2011.0,1478338
+attack the block,2011.0,1478964
+she said,2022.0,14807308
+the lorax,2012.0,1482459
+oblivion,2013.0,1483013
+the greatest showman,2017.0,1485796
+red riding hood,2011.0,1486185
+tamara drewe,2010.0,1486190
+f,2010.0,1486670
+the change-up,2011.0,1488555
+guillermo del toro's pinocchio,2022.0,1488589
+booksmart,2019.0,1489887
+the lego movie,2014.0,1490017
+i saw the light,2015.0,1490785
+aaranya kaandam,2010.0,1496729
+horrible bosses,2011.0,1499658
+bad boys for life,2020.0,1502397
+drive angry,2011.0,1502404
+the king's speech,2010.0,1504320
+third star,2010.0,1510906
+super,2010.0,1512235
+a star is born,2018.0,1517451
+anonymous,2011.0,1521197
+vacation,2015.0,1524930
+"argentina, 1985",2022.0,15301048
+murderland,,1531804
+beginners,2010.0,1532503
+marcel the shell with shoes on,2021.0,15339456
+elysium,2013.0,1535108
+captain phillips,2013.0,1535109
+127 hours,2010.0,1542344
+zombieland: double tap,2019.0,1560220
+the master,2012.0,1560747
+blue hotel,2010.0,1561375
+bloodwork,2012.0,1562567
+overboard,2018.0,1563742
+skyline,2010.0,1564585
+man on a ledge,2012.0,1568338
+the girl with the dragon tattoo,2011.0,1568346
+war horse,2011.0,1568911
+"crazy, stupid, love.",2011.0,1570728
+a dangerous method,2011.0,1571222
+barbarian,2022.0,15791034
+larry crowne,2011.0,1583420
+what to expect when you're expecting,2012.0,1586265
+machine gun preacher,2011.0,1586752
+maleficent,2014.0,1587310
+insidious,2010.0,1591095
+pawn sacrifice,2014.0,1596345
+the big short,2015.0,1596363
+contagion,2011.0,1598778
+abduction,2011.0,1600195
+only god forgives,2013.0,1602613
+amour,2012.0,1602620
+atm,2012.0,1603257
+frank,2014.0,1605717
+midnight in paris,2011.0,1605783
+win win,2011.0,1606392
+margin call,2011.0,1615147
+jackie,2016.0,1619029
+30 minutes or less,2011.0,1622547
+paranorman,2012.0,1623288
+young adult,2011.0,1625346
+the sandwich days,2010.0,1629412
+edge of tomorrow,2014.0,1631867
+friends with benefits,2011.0,1632708
+bloodshot,2020.0,1634106
+ted,2012.0,1637725
+the man from u.n.c.l.e.,2015.0,1638355
+udaan,2010.0,1639426
+how to train your dragon 2,2014.0,1646971
+the dark tower,2017.0,1648190
+super 8,2011.0,1650062
+blonde,2022.0,1655389
+my week with marilyn,2011.0,1655420
+the artist,2011.0,1655442
+colombiana,2011.0,1657507
+the song of names,2019.0,1657517
+the perks of being a wallflower,2012.0,1659337
+the revenant,2015.0,1663202
+martyrs,2015.0,1663655
+pacific rim,2013.0,1663662
+damsels in distress,2011.0,1667307
+now you see me,2013.0,1670345
+batman: year one,,1672723
+take shelter,2011.0,1675192
+ready player one,2018.0,1677720
+stoker,2013.0,1682180
+playback,2012.0,1682940
+despicable me 2,2013.0,1690953
+i melt with you,2011.0,1691920
+carnage,2011.0,1692486
+the invisible woman,2013.0,1700845
+chronicle,2012.0,1706593
+snowpiercer,2013.0,1706620
+les misérables,2012.0,1707386
+alex cross,2012.0,1712170
+only lovers left alive,2013.0,1714915
+shame,2011.0,1723811
+the way way back,2013.0,1727388
+bohemian rhapsody,2018.0,1727824
+ender's game,2013.0,1731141
+snow white and the huntsman,2012.0,1735898
+moonrise kingdom,2012.0,1748122
+this is 40,2012.0,1758830
+no one lives,2012.0,1763264
+arbitrage,2012.0,1764183
+shadow dancer,2012.0,1770734
+danny collins,2015.0,1772288
+anna karenina,2012.0,1781769
+boy who never slept,2006.0,1781782
+john dies at the end,2012.0,1783732
+pirates of the caribbean: dead men tell no tales,2017.0,1790809
+the maze runner,2014.0,1790864
+zero dark thirty,2012.0,1790885
+inherent vice,2014.0,1791528
+while we're young,2014.0,1791682
+her,2013.0,1798709
+american hustle,2013.0,1800241
+gold,2016.0,1800302
+unbroken,2014.0,1809398
+the place beyond the pines,2012.0,1817273
+nebraska,2013.0,1821549
+the double,2013.0,1825157
+black panther,2018.0,1825683
+a separation,2011.0,1832382
+great expectations,2012.0,1836808
+winter's tale,2014.0,1837709
+ruby sparks,2012.0,1839492
+rockstar,2011.0,1839596
+divergent,2014.0,1840309
+django unchained,2012.0,1853728
+you're next,2011.0,1853739
+end of watch,2012.0,1855199
+to rome with love,2012.0,1859650
+safety not guaranteed,2012.0,1862079
+the sessions,2012.0,1866249
+the batman,2022.0,1877830
+x-men: days of future past,2014.0,1877832
+the edge of seventeen,2016.0,1878870
+spotlight,2015.0,1895587
+flight,2012.0,1907668
+my pure joy,2011.0,1909807
+good vibrations,2012.0,1920945
+frankenstein's army,2013.0,1925435
+mud,2012.0,1935179
+carrie,2013.0,1939659
+ford v ferrari,2019.0,1950186
+the hitman's bodyguard,2017.0,1959563
+labor day,2013.0,1967545
+the comedian,2016.0,1967614
+infinitely polar bear,2014.0,1969062
+the neon demon,2016.0,1974419
+victor frankenstein,2015.0,1976009
+aftersun,2022.0,19770238
+toy story 4,2019.0,1979376
+the good dinosaur,2015.0,1979388
+pitch perfect,2012.0,1981677
+"for a good time, call...",2012.0,1996264
+papadopoulos & sons,2012.0,2006810
+all is lost,2013.0,2017038
+identity thief,2013.0,2024432
+12 years a slave,2013.0,2024544
+flatliners,2017.0,2039338
+the gambler,2014.0,2039393
+inside llewyn davis,2013.0,2042568
+rust and bone,2012.0,2053425
+side effects,2013.0,2053463
+eye in the sky,2015.0,2057392
+smashed,2012.0,2063781
+rocketman,2019.0,2066051
+steve jobs,2015.0,2080374
+the imitation game,2014.0,2084970
+mr. right,2015.0,2091935
+inside out,2015.0,2096673
+spring breakers,2012.0,2101441
+dawn of the planet of the apes,2014.0,2103281
+authors anonymous,2014.0,2114461
+ginger & rosa,2012.0,2115295
+hacksaw ridge,2016.0,2119532
+pixels,2015.0,2120120
+beasts of the southern wild,2012.0,2125435
+the bling ring,2013.0,2132285
+saving mr. banks,2013.0,2140373
+the accountant,2016.0,2140479
+bad words,2013.0,2170299
+horrible bosses 2,2014.0,2170439
+the kings of summer,2013.0,2179116
+american sniper,2014.0,2179136
+into the woods,2014.0,2180411
+the purge,2013.0,2184339
+run all night,2015.0,2199571
+before midnight,2013.0,2209418
+the amityville asylum,2013.0,2216212
+insidious: chapter 2,2013.0,2226417
+calvary,2014.0,2234003
+dear white people,2014.0,2235108
+contest,2013.0,2245188
+american milkshake,2013.0,2254364
+hate crime,2012.0,2257436
+wadjda,2012.0,2258858
+gone girl,2014.0,2267998
+hellboy,2019.0,2274648
+the grand budapest hotel,2014.0,2278388
+my friend dahmer,2017.0,2291540
+minions,2015.0,2293640
+22 jump street,2014.0,2294449
+frozen,2013.0,2294629
+olympus has fallen,2013.0,2302755
+reasonable doubt,2014.0,2304953
+alien: covenant,2017.0,2316204
+the babadook,2014.0,2321549
+mary queen of scots,2018.0,2328900
+the zero theorem,2013.0,2333804
+fruitvale station,2013.0,2334649
+blue jasmine,2013.0,2334873
+white house down,2013.0,2334879
+the rover,2014.0,2345737
+the mummy,2017.0,2345759
+frances ha,2012.0,2347569
+mississippi grind,2015.0,2349144
+the lunchbox,2013.0,2350496
+bad country,2014.0,2350892
+blue ruin,2013.0,2359024
+live by night,2016.0,2361317
+the intern,2015.0,2361509
+short term 12,2013.0,2370248
+spectre,2015.0,2379713
+coco,2017.0,2380307
+brooklyn,2015.0,2381111
+mission: impossible - rogue nation,2015.0,2381249
+focus,2015.0,2381941
+no time to die,2021.0,2382320
+oculus,2013.0,2388715
+enough said,2013.0,2390361
+mudbound,2017.0,2396589
+the invitation,2015.0,2400463
+anomalisa,2015.0,2401878
+carol,2015.0,2402927
+belle,2013.0,2404181
+gods of egypt,2016.0,2404233
+woman in gold,2015.0,2404425
+the past,2013.0,2404461
+the happy prince,2018.0,2404639
+atomic blonde,2017.0,2406566
+christ complex,2012.0,2416048
+joy,2015.0,2446980
+the peanuts movie,2015.0,2452042
+respect,2021.0,2452150
+get on up,2014.0,2473602
+mr. turner,2014.0,2473794
+"extremely wicked, shockingly evil and vile",2019.0,2481498
+5 to 7,2014.0,2486678
+star wars: episode vii - the force awakens,2015.0,2488496
+the keeping room,2014.0,2488778
+me him her,2015.0,2507238
+hotel transylvania 2,2015.0,2510894
+crimson peak,2015.0,2554274
+birdman or (the unexpected virtue of ignorance),2014.0,2562232
+me and earl and the dying girl,2015.0,2582496
+hell or high water,2016.0,2582782
+whiplash,2014.0,2582802
+the fault in our stars,2014.0,2582846
+jojo rabbit,2019.0,2584384
+love is strange,2014.0,2639344
+about alex,2014.0,2667918
+fences,2016.0,2671706
+locke,2013.0,2692904
+the boss,2016.0,2702724
+game night,2018.0,2704998
+the secret life of pets,2016.0,2709768
+fury,2014.0,2713180
+what we did on our holiday,2014.0,2725962
+bird box,2018.0,2737304
+beauty and the beast,2017.0,2771200
+annihilation,2018.0,2798920
+kingsman: the secret service,2014.0,2802144
+mike and dave need wedding dates,2016.0,2823054
+the old man & the gun,2018.0,2837574
+pitch perfect 2,2015.0,2848292
+"as above, so below",2014.0,2870612
+wish i was here,2014.0,2870708
+mistress america,2015.0,2872462
+nightcrawler,2014.0,2872718
+lucy,2014.0,2872732
+red sparrow,2018.0,2873282
+macbeth,2015.0,2884018
+99 homes,2014.0,2891174
+john wick,2014.0,2911666
+ad astra,2019.0,2935510
+a most violent year,2014.0,2937898
+zootopia,2016.0,2948356
+soul,2020.0,2948372
+encanto,2021.0,2953050
+batman v superman: dawn of justice,2016.0,2975590
+the theory of everything,2014.0,2980516
+the guest,2014.0,2980592
+13/13/13,2013.0,2991516
+faults,2014.0,3021360
+learning to drive,2014.0,3062976
+love & friendship,2016.0,3068194
+creed,2015.0,3076658
+suffragette,2015.0,3077214
+tusk,2014.0,3099498
+crazy rich asians,2018.0,3104988
+the tender bar,2021.0,3108894
+trainwreck,2015.0,3152624
+pride,2014.0,3169706
+room,2015.0,3170832
+the boy next door,2015.0,3181822
+trumbo,2015.0,3203606
+slow west,2015.0,3205376
+a beautiful day in the neighborhood,2019.0,3224458
+it follows,2014.0,3235888
+i'll see you in my dreams,2015.0,3236120
+sully,2016.0,3263904
+little women,2019.0,3281548
+logan,2017.0,3315342
+american ultra,2015.0,3316948
+still alice,2014.0,3316960
+annabelle,2014.0,3322940
+stan & ollie,2018.0,3385524
+scary stories to tell in the dark,2019.0,3387520
+haider,2014.0,3390572
+ulidavaru kandanthe,2014.0,3394420
+sicario,2015.0,3397884
+murder on the orient express,2017.0,3402236
+a monster calls,2016.0,3416532
+the end of the tour,2015.0,3416744
+finch,2021.0,3420504
+war for the planet of the apes,2017.0,3450958
+the lobster,2015.0,3464902
+sing,2016.0,3470600
+maggie's plan,2015.0,3471098
+thor: ragnarok,2017.0,3501632
+richard jewell,2019.0,3513548
+the disaster artist,2017.0,3521126
+sing street,2016.0,3544112
+captain fantastic,2016.0,3553976
+girls trip,2017.0,3564472
+legend,2015.0,3569230
+west side story,2021.0,3581652
+the grudge,2020.0,3612126
+the girl on the train,2016.0,3631112
+i smile back,2015.0,3640682
+the martian,2015.0,3659388
+the red turtle,2016.0,3666024
+bridge of spies,2015.0,3682448
+remember,2015.0,3704050
+elvis,2022.0,3704428
+all the old knives,2022.0,3706352
+the hollars,2016.0,3714720
+maudie,2016.0,3721954
+the leisure seeker,2017.0,3741632
+lion,2016.0,3741834
+the wife,2017.0,3750872
+my big fat greek wedding 2,2016.0,3760922
+la la land,2016.0,3783958
+barb and star go to vista del mar,2021.0,3797512
+the nice guys,2016.0,3799694
+big time adolescence,2019.0,3824648
+the predator,2018.0,3829266
+land of mine,2015.0,3841424
+to all the boys i've loved before,2018.0,3846674
+dope,2015.0,3850214
+krampus,2015.0,3850590
+the boy,2016.0,3882082
+baby driver,2017.0,3890160
+leave no trace,2018.0,3892172
+guardians of the galaxy vol. 2,2017.0,3896198
+equity,2016.0,3958780
+okja,2017.0,3967856
+manchester by the sea,2016.0,4034228
+swiss army man,2016.0,4034354
+toni erdmann,2016.0,4048272
+green room,2015.0,4062536
+a prayer before dawn,2017.0,4080956
+avengers: endgame,2019.0,4154796
+free fire,2016.0,4158096
+all for nikki,2020.0,4160608
+anthropoid,2016.0,4190530
+norman,2016.0,4191702
+how to build a girl,2019.0,4193072
+the birth of a nation,2016.0,4196450
+molly's game,2017.0,4209788
+the babysitter,2017.0,4225622
+the witch,2015.0,4263482
+the good nurse,2022.0,4273800
+the founder,2016.0,4276820
+kubo and the two strings,2016.0,4302938
+julieta,2016.0,4326444
+the last black man in san francisco,2019.0,4353250
+the peanut butter falcon,2019.0,4364194
+20th century women,2016.0,4385888
+paddington 2,2017.0,4468740
+the meddler,2015.0,4501454
+novitiate,2017.0,4513316
+overlord,2018.0,4530422
+miss sloane,2016.0,4540710
+nocturnal animals,2016.0,4550098
+darkest hour,2017.0,4555426
+downhill,2020.0,4558376
+can you ever forgive me?,2018.0,4595882
+battle of the sexes,2017.0,4622512
+spider-man: into the spider-verse,2018.0,4633694
+masaan,2015.0,4635372
+denial,2016.0,4645330
+harriet,2019.0,4648786
+bad moms,2016.0,4651520
+on the basis of sex,2018.0,4669788
+loving,2016.0,4669986
+lucy in the sky,2019.0,4682804
+the death of stalin,2017.0,4686844
+the mauritanian,2021.0,4761112
+the meg,2018.0,4779682
+lights out,2016.0,4786282
+hidden figures,2016.0,4846340
+first they killed my father,2017.0,4882376
+kapoor & sons,2016.0,4900716
+just mercy,2019.0,4916630
+lady bird,2017.0,4925292
+till,2022.0,4960748
+the sisters brothers,2018.0,4971344
+moonlight,2016.0,4975722
+being the ricardos,2021.0,4995540
+ambulance,2022.0,4998632
+dunkirk,2017.0,5013056
+"three billboards outside ebbing, missouri",2017.0,5027774
+mary poppins returns,2018.0,5028340
+get out,2017.0,5052448
+sicario: day of the soldado,2018.0,5052474
+hold the dark,2018.0,5057140
+dangal,2016.0,5074352
+the favourite,2018.0,5083738
+papillon,2017.0,5093026
+isle of dogs,2018.0,5104604
+raya and the last dragon,2021.0,5109280
+mother!,2017.0,5109784
+warning shot,2018.0,5113250
+ocean's eight,2018.0,5164214
+"love, simon",2018.0,5164432
+mark felt: the man who brought down the white house,2017.0,5175450
+wonderstruck,2017.0,5208216
+neerja,2016.0,5286444
+all the money in the world,2017.0,5294550
+happy end,2017.0,5304464
+happy death day,2017.0,5308322
+never look away,2018.0,5311542
+wind river,2017.0,5362988
+sound of metal,2019.0,5363618
+colette,2018.0,5437928
+zola,2020.0,5439812
+the big sick,2017.0,5462602
+hustlers,2019.0,5503686
+bright,2017.0,5519340
+private life,2018.0,5536610
+the meyerowitz stories,2017.0,5536736
+pink,2016.0,5571734
+"i, tonya",2017.0,5580036
+the hate u give,2018.0,5580266
+the shape of water,2017.0,5580390
+the beguiled,2017.0,5592248
+doctor sleep,2019.0,5606664
+tully,2018.0,5610554
+mid90s,2018.0,5613484
+a fantastic woman,2017.0,5639354
+thoroughbreds,2017.0,5649108
+the florida project,2017.0,5649144
+fighting belle,2017.0,5662022
+sorry to bother you,2018.0,5688932
+slender man,2018.0,5690360
+under the silver lake,2018.0,5691670
+i don't feel at home in this world anymore,2017.0,5710514
+film stars don't die in liverpool,2017.0,5711148
+the killing of a sacred deer,2017.0,5715874
+breathe,2017.0,5716464
+call me by your name,2017.0,5726616
+you were never really here,2017.0,5742374
+skyscraper,2018.0,5758778
+underwater,2020.0,5774060
+phantom thread,2017.0,5776858
+brigsby bear,2017.0,5805752
+the nun,2018.0,5814060
+victoria & abdul,2017.0,5816682
+a hidden life,2019.0,5827916
+elizabeth blue,2017.0,5881892
+brad's status,2017.0,5884230
+wildlife,2018.0,5929754
+vox lux,2018.0,5960374
+ingrid goes west,2017.0,5962210
+life itself,2018.0,5989218
+"roman j. israel, esq.",2017.0,6000478
+kin,2018.0,6017942
+last flag flying,2017.0,6018306
+first reformed,2017.0,6053438
+disobedience,2017.0,6108178
+the aeronauts,2019.0,6141246
+roma,2018.0,6155172
+white noise,2022.0,6160448
+i think we're alone now,2018.0,6169694
+assassination nation,2018.0,6205872
+american animals,2018.0,6212478
+the rider,2017.0,6217608
+annette,2021.0,6217926
+the man who invented christmas,2017.0,6225520
+"ruben brandt, collector",2018.0,6241872
+free guy,2021.0,6264654
+vice,2018.0,6266538
+the post,2017.0,6294822
+loveless,2017.0,6304162
+creed ii,2018.0,6343314
+downton abbey,2019.0,6398184
+the ballad of buster scruggs,2018.0,6412452
+fast color,2018.0,6418778
+the sun is also a star,2019.0,6423362
+the personal history of david copperfield,2019.0,6439020
+serenity,2019.0,6476140
+upgrade,2018.0,6499752
+the beach bum,2019.0,6511932
+the white tiger,2021.0,6571548
+bad times at the el royale,2018.0,6628394
+a quiet place,2018.0,6644200
+what they had,2018.0,6662736
+the spy who dumped me,2018.0,6663582
+outlaw king,2018.0,6679794
+everything everywhere all at once,2022.0,6710474
+tenet,2020.0,6723592
+parasite,2019.0,6751668
+totem,2017.0,6791238
+us,2019.0,6857112
+palmer,2021.0,6857376
+the hummingbird project,2018.0,6866224
+news of the world,2020.0,6878306
+foxtrot,2017.0,6896536
+midway,2019.0,6924650
+the boss baby 2: family business,2021.0,6932874
+puzzle,2018.0,6933454
+green book,2018.0,6966692
+mandy,2018.0,6998518
+boy erased,2018.0,7008872
+eighth grade,2018.0,7014006
+a simple favor,2018.0,7040874
+velvet buzzsaw,2019.0,7043012
+the front runner,2018.0,7074886
+if beale street could talk,2018.0,7125860
+destroyer,2018.0,7137380
+onward,2020.0,7146812
+blindspotting,2018.0,7242142
+22-jul,2018.0,7280898
+joker,2019.0,7286456
+triangle of sadness,2022.0,7322224
+good boys,2019.0,7343762
+blackkklansman,2018.0,7349662
+a man called otto,2022.0,7405458
+in fabric,2018.0,7464188
+over the moon,2020.0,7488208
+marriage story,2019.0,7653254
+searching,2018.0,7668870
+stuber,2019.0,7734218
+kate,2021.0,7737528
+nightmare alley,2021.0,7740496
+brightburn,2019.0,7752126
+never rarely sometimes always,2020.0,7772582
+hereditary,2018.0,7784604
+i'm thinking of ending things,2020.0,7939766
+the mitchells vs the machines,2021.0,7979580
+the lighthouse,2019.0,7984734
+the king,2019.0,7984766
+after the wedding,2019.0,7985692
+frankie,2019.0,8019694
+the woman king,2022.0,8093700
+kajillionaire,2020.0,8143990
+honey boy,2019.0,8151874
+the report,2019.0,8236336
+capernaum,2018.0,8267604
+pain and glory,2019.0,8291806
+crawl,2019.0,8364368
+the gentlemen,2019.0,8367814
+the two popes,2019.0,8404614
+shirley,2020.0,8430598
+the united states vs. billie holiday,2021.0,8521718
+dolemite is my name,2019.0,8526872
+the way back,2020.0,8544498
+1917,2019.0,8579674
+the farewell,2019.0,8637428
+the climb,2019.0,8637440
+waves,2019.0,8652728
+"tick, tick... boom!",2021.0,8721424
+queen & slim,2019.0,8722346
+midsommar,2019.0,8772262
+come to daddy,2019.0,8816194
+the french dispatch,2021.0,8847712
+passing,2021.0,8893974
+knives out,2019.0,8946378
+saint frances,2019.0,9016016
+living,2022.0,9051908
+the lost daughter,2021.0,9100054
+black panther: wakanda forever,2022.0,9114286
+cherry,2021.0,9130508
+three thousand years of longing,2022.0,9198364
+all is true,2018.0,9206798
+emma.,2020.0,9214832
+first cow,2019.0,9231040
+let him go,2020.0,9340860
+candyman,2021.0,9347730
+palm springs,2020.0,9484998
+on the rocks,2020.0,9606374
+king richard,2021.0,9620288
+promising young woman,2020.0,9620292
+last night in soho,2021.0,9639470
+the king of staten island,2020.0,9686708
+the night house,2020.0,9731534
+bros,2022.0,9731598
+the menu,2022.0,9764362
+nomadland,2020.0,9770150
+da 5 bloods,2020.0,9777644
+the tomorrow war,2021.0,9777666
+judas and the black messiah,2021.0,9784798
+herself,2020.0,9902160

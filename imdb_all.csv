@@ -1,0 +1,2659 @@
+movie,year,id
+Witchcraft,1916,7575
+Now or Never,1921,12512
+The Lost World,1925,16039
+The Phantom of the Opera,1925,16220
+The Jazz Singer,1927,18037
+London After Midnight,1927,18097
+Napoleon,1927,18192
+The Passion of Joan of Arc,1928,19254
+One Good Turn,1930,21214
+An American Tragedy,1931,21607
+Frankenstein,1931,21884
+The Last Flight,1931,22054
+Platinum Blonde,1931,22268
+American Madness,1932,22626
+Grand Hotel,1932,22958
+One Way Passage,1932,23305
+Trouble in Paradise,1932,23622
+Vampyr,1932,23649
+Duck Soup,1933,23969
+Mystery of the Wax Museum,1933,24368
+It Happened One Night,1934,25316
+Maniac,1934,25465
+The Thin Man,1934,25878
+Transatlantic Merry-Go-Round,1934,25905
+Mr. Deeds Goes to Town,1936,27996
+Lost Horizon,1937,29162
+Angels with Dirty Faces,1938,29870
+Bringing Up Baby,1938,29947
+Pygmalion,1938,30637
+Gone with the Wind,1939,31381
+Mr. Smith Goes to Washington,1939,31679
+Ninotchka,1939,31725
+Stagecoach,1939,31971
+The Wizard of Oz,1939,32138
+The Grapes of Wrath,1940,32551
+His Girl Friday,1940,32599
+New Moon,1940,32840
+Citizen Kane,1941,33467
+All That Money Can Buy,1941,33532
+Dr. Jekyll and Mr. Hyde,1941,33553
+The Maltese Falcon,1941,33870
+Meet John Doe,1941,33891
+Casablanca,1942,34583
+Cat People,1942,34587
+Kate & Leopold,2001,35423
+I Walked with a Zombie,1943,36027
+The Leopard Man,1943,36104
+The Life and Death of Colonel Blimp,1943,36112
+The Seventh Victim,1943,36341
+Arsenic and Old Lace,1944,36613
+The Curse of the Cat People,1944,36733
+Double Indemnity,1944,36775
+Tall in the Saddle,1944,37343
+The Body Snatcher,1945,37549
+Isle of the Dead,1945,37820
+The Lost Weekend,1945,37884
+The Big Sleep,1946,38355
+It's a Wonderful Life,1946,38650
+The Jolson Story,1946,38661
+Mr. Blandings Builds His Dream House,1948,40613
+The Naked City,1948,40636
+Portrait of Jennie,1948,40705
+Station West,1948,40835
+All the King's Men,1949,41113
+Roughshod,1949,41827
+The Third Man,1949,41959
+All About Eve,1950,42192
+Harvey,1950,42546
+The Jackie Robinson Story,1950,42609
+Sunset Blvd.,1950,43014
+The African Queen,1951,43265
+Apache Drums,1951,43291
+The Day the Earth Stood Still,1951,43456
+A Christmas Carol,1951,44008
+Strangers on a Train,1951,44079
+High Noon,1952,44706
+Singin' in the Rain,1952,45152
+From Here to Eternity,1953,45793
+Inferno,1953,45911
+Stalag 17,1953,46359
+The War of the Worlds,1953,46534
+On the Waterfront,1954,47296
+Rear Window,1954,47396
+Sabrina,1954,47437
+Salt of the Earth,1954,47443
+Seven Samurai,1954,47478
+White Christmas,1954,47673
+The Wild One,1953,47677
+The White Angel,1955,47832
+Bad Day at Black Rock,1955,47849
+Marty,1955,48356
+The Night of the Hunter,1955,48424
+Rebel Without a Cause,1955,48545
+Forbidden Planet,1956,49223
+The Man Who Knew Too Much,1956,49470
+The Searchers,1956,49730
+12 Angry Men,1957,50083
+An Affair to Remember,1957,50105
+The Bachelor Party,1957,50156
+The Seventh Seal,1957,50976
+Sweet Smell of Success,1957,51036
+The Wings of Eagles,1957,51198
+The 7th Voyage of Sinbad,1958,51337
+Vertigo,1958,52357
+The Vikings,1958,52365
+Anatomy of a Murder,1959,52561
+The Atomic Submarine,1959,52587
+A Bucket of Blood,1959,52655
+North by Northwest,1959,53125
+Some Like It Hot,1959,53291
+13 Ghosts,1960,53559
+The Apartment,1960,53604
+L'Avventura,1960,53619
+Peeping Tom,1960,54167
+Psycho,1960,54215
+Orgy of the Dead,1965,54240
+Spartacus,1960,54331
+The Time Machine,1960,54387
+The Hustler,1961,54997
+Viridiana,1961,55601
+Dr. No,1962,55928
+Lawrence of Arabia,1962,56172
+The Miracle Worker,1962,56241
+Ride the High Country,1962,56412
+To Kill a Mockingbird,1962,56592
+8½,1963,56801
+The Birds,1963,56869
+Charade,1963,56923
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,57012
+From Russia with Love,1963,57076
+The Great Escape,1963,57115
+House of the Damned,1963,57160
+Goldfinger,1964,58150
+A Hard Day's Night,1964,58182
+Mary Poppins,1964,58331
+Nothing But a Man,1964,58414
+The Battle of Algiers,1966,58946
+The Cincinnati Kid,1965,59037
+Doctor Zhivago,1965,59113
+The Sound of Music,1965,59742
+Thunderball,1965,59800
+Fantastic Voyage,1966,60397
+Bonnie and Clyde,1967,61418
+Cool Hand Luke,1967,61512
+The Graduate,1967,61722
+Two for the Road,1967,62407
+2001: A Space Odyssey,1968,62622
+The Lion in Winter,1968,63227
+Night of the Living Dead,1968,63350
+Petulia,1968,63426
+Planet of the Apes,1968,63442
+The Producers,1967,63462
+Rosemary's Baby,1968,63522
+Shame,1968,63611
+The Swimmer,1968,63663
+Butch Cassidy and the Sundance Kid,1969,64115
+Midnight Cowboy,1969,64665
+The Wild Bunch,1969,65214
+Five Easy Pieces,1970,65724
+M*A*S*H,1970,66026
+The Private Life of Sherlock Holmes,1970,66249
+THX 1138,1971,66434
+The Beguiled,1971,66819
+A Clockwork Orange,1971,66921
+Escape from the Planet of the Apes,1971,67065
+The French Connection,1971,67116
+Get Carter,1971,67128
+"Happy Birthday, Wanda June",1971,67180
+Harold and Maude,1971,67185
+The Hospital,1971,67217
+Klute,1971,67309
+The Last Picture Show,1971,67328
+A New Leaf,1971,67482
+The Omega Man,1971,67525
+Walkabout,1971,67959
+Willy Wonka & the Chocolate Factory,1971,67992
+The Getaway,1972,68638
+The Other Side of the Wind,2018,69049
+The Poseidon Adventure,1972,69113
+Sounder,1972,69303
+The Stone Tape,,69316
+American Graffiti,1973,69704
+Badlands,1973,69762
+Dark Star,1974,69945
+Don't Look Now,1973,69995
+The Exorcist,1973,70047
+Live and Let Die,1973,70328
+The Long Goodbye,1973,70334
+Mean Streets,1973,70379
+Paper Moon,1973,70510
+Soylent Green,1973,70723
+The Sting,1973,70735
+Last Tango in Paris,1972,70849
+The Wicker Man,1973,70917
+Black Christmas,1974,71222
+Chinatown,1974,71315
+The Godfather Part II,1974,71562
+Gone in 60 Seconds,1974,71571
+The Great Gatsby,1974,71577
+Lenny,1974,71746
+Monty Python and the Holy Grail,1975,71853
+The Parallax View,1974,71970
+The Taking of Pelham One Two Three,1974,72251
+The Texas Chain Saw Massacre,1974,72271
+Young Frankenstein,1974,72431
+Barry Lyndon,1975,72684
+Dog Day Afternoon,1975,72890
+Jaws,1975,73195
+Nashville,1975,73440
+One Flew Over the Cuckoo's Nest,1975,73486
+Picnic at Hanging Rock,1975,73540
+The Rocky Horror Picture Show,1975,73629
+Shampoo,1975,73692
+Shivers,1975,73705
+Three Days of the Condor,1975,73802
+All the President's Men,1976,74119
+Car Wash,1976,74281
+Carrie,1976,74285
+Eraserhead,1977,74486
+Cross of Iron,1977,74695
+Logan's Run,1976,74812
+Mikey and Nicky,1976,74901
+Network,1976,74958
+The Omen,1976,75005
+Rocky,1976,75148
+Taxi Driver,1976,75314
+Annie Hall,1977,75686
+Close Encounters of the Third Kind,1977,75860
+Exorcist II: The Heretic,1977,76009
+The Goodbye Girl,1977,76095
+Julia,1977,76245
+Rabid,1977,76590
+Smokey and the Bandit,1977,76729
+The Spy Who Loved Me,1977,76752
+Star Wars: Episode IV - A New Hope,1977,76759
+Which Way Is Up?,1977,76913
+Coming Home,1978,77362
+Dawn of the Dead,1978,77402
+Days of Heaven,1978,77405
+The Deer Hunter,1978,77416
+The Driver,1978,77474
+Grease,1978,77631
+Halloween,1978,77651
+Heaven Can Wait,1978,77663
+The Hills Have Eyes,1977,77681
+Invasion of the Body Snatchers,1978,77745
+Jaws 2,1978,77766
+The Lord of the Rings,1978,77869
+Midnight Express,1978,77928
+Superman,1978,78346
+An Unmarried Woman,1978,78444
+Alien,1979,78748
+The Amityville Horror,1979,78767
+Apocalypse Now,1979,78788
+Being There,1979,78841
+Breaking Away,1979,78902
+The Great Train Robbery,1978,79240
+Hardcore,1979,79271
+The Jerk,1979,79367
+Kramer vs. Kramer,1979,79417
+Meatballs,1979,79540
+Norma Rae,1979,79638
+Rocky II,1979,79817
+Star Trek: The Motion Picture,1979,79945
+The Warriors,1979,80120
+When a Stranger Calls,1979,80130
+Zulu Dawn,1979,80180
+9 to 5,1980,80319
+Airplane!,1980,80339
+The Blues Brothers,1980,80455
+Caddyshack,1980,80487
+Du zhou,1985,80583
+Dressed to Kill,1980,80661
+The Elephant Man,1980,80678
+Star Wars: Episode V - The Empire Strikes Back,1980,80684
+Flash Gordon,1980,80745
+The Fog,1980,80749
+Friday the 13th,1980,80761
+Melvin and Howard,1980,81150
+Ordinary People,1980,81283
+Prom Night,1980,81383
+Raging Bull,1980,81398
+Scanners,1981,81455
+The Shining,1980,81505
+The Stunt Man,1980,81568
+Superman II,1980,81573
+Time Bandits,1981,81633
+An American Werewolf in London,1981,82010
+Body Heat,1981,82089
+Dragonslayer,1981,82288
+Escape from New York,1981,82340
+Excalibur,1981,82348
+For Your Eyes Only,1981,82398
+The Great Muppet Caper,1981,82474
+Halloween II,1981,82495
+Happy Birthday to Me,1981,82498
+Heavy Metal,1981,82509
+The Howling,1981,82533
+The Road Warrior,1981,82694
+Raiders of the Lost Ark,1981,82971
+Reds,1981,82979
+Sharky's Machine,1981,83064
+Shock Treatment,1981,83067
+Thief,1981,83190
+48 Hrs.,1982,83511
+Airplane II: The Sequel,1982,83530
+Basket Case,1982,83624
+Blade Runner,1982,83658
+Cat People,1982,83722
+Diner,1982,83833
+E.T. the Extra-Terrestrial,1982,83866
+The Evil Dead,1981,83907
+Fast Times at Ridgemont High,1982,83929
+First Blood,1982,83944
+Frances,1982,83967
+Friday the 13th Part III,1982,83972
+Gandhi,1982,83987
+Monty Python Live at the Hollywood Bowl,1982,84352
+An Officer and a Gentleman,1982,84434
+Personal Best,1982,84489
+Poltergeist,1982,84516
+Porky's,1981,84522
+Rocky III,1982,84602
+Star Trek II: The Wrath of Khan,1982,84726
+The Thing,1982,84787
+Tootsie,1982,84805
+Tron,1982,84827
+The Verdict,1982,84855
+The Big Chill,1983,85244
+Christine,1983,85333
+A Christmas Story,1983,85334
+Class,1983,85346
+The Dead Zone,1983,85407
+Flashdance,1983,85549
+The King of Comedy,1982,85794
+Krull,1983,85811
+The Meaning of Life,1983,85959
+National Lampoon's Vacation,1983,85995
+Octopussy,1983,86034
+The Outsiders,1983,86066
+The Ploughman's Lunch,1983,86122
+Star Wars: Episode VI - Return of the Jedi,1983,86190
+Scarface,1983,86250
+Silkwood,1983,86312
+Something Wicked This Way Comes,1983,86336
+Superman III,1983,86393
+Terms of Endearment,1983,86425
+Under Fire,1983,86510
+2010: The Year We Make Contact,1984,86837
+The Adventures of Buckaroo Banzai Across the 8th Dimension,1984,86856
+Amadeus,1984,86879
+Bachelor Party,1984,86927
+Beverly Hills Cop,1984,86960
+Blood Simple,1984,86979
+Children of the Corn,1984,87050
+Dune,1984,87182
+Ghostbusters,1984,87332
+Godzilla 1985,1985,87344
+Gremlins,1984,87363
+Indiana Jones and the Temple of Doom,1984,87469
+The Karate Kid,1984,87538
+A Nightmare on Elm Street,1984,87800
+Once Upon a Time in America,1984,87843
+Police Academy,1984,87928
+Purple Rain,1984,87957
+Red Dawn,1984,87985
+Revenge of the Nerds,1984,88000
+Romancing the Stone,1984,88011
+Sixteen Candles,1984,88128
+A Soldier's Story,1984,88146
+Star Trek III: The Search for Spock,1984,88170
+Starman,1984,88172
+Stranger Than Paradise,1984,88184
+Supergirl,1984,88206
+The Terminator,1984,88247
+This Is Spinal Tap,1984,88258
+The NeverEnding Story,1984,88323
+Agnes of God,1985,88683
+Back to the Future,1985,88763
+Brazil,1985,88846
+The Breakfast Club,1985,88847
+Clue,1985,88930
+Cocoon,1985,88933
+Code of Silence,1985,88936
+The Color Purple,1985,88939
+Commando,1985,88944
+Day of the Dead,1985,88993
+Deceptions,,89008
+Fletch,1985,89155
+Fright Night,1985,89175
+The Goonies,1985,89218
+Jagged Edge,1985,89360
+Kiss of the Spider Woman,1985,89424
+Ladyhawke,1985,89457
+Legend,1985,89469
+Lost in America,1985,89504
+National Lampoon's European Vacation,1985,89670
+A Nightmare on Elm Street 2: Freddy's Revenge,1985,89686
+Police Academy 2: Their First Assignment,1985,89822
+Rambo: First Blood Part II,1985,89880
+Ran,1985,89881
+Real Genius,1985,89886
+The Return of the Living Dead,1985,89907
+Rocky IV,1985,89927
+Silver Bullet,1985,90021
+Silverado,1985,90022
+St. Elmo's Fire,1985,90060
+Starchaser: The Legend of Orin,1985,90065
+Teen Wolf,1985,90142
+A View to a Kill,1985,90264
+Witness,1985,90329
+Aliens,1986,90605
+April Fool's Day,1986,90655
+Big Trouble in Little China,1986,90728
+Blue Velvet,1986,90756
+Ferris Bueller's Day Off,1986,91042
+The Fly,1986,91064
+Friday the 13th Part VI: Jason Lives,1986,91080
+Hannah and Her Sisters,1986,91167
+Highlander,1986,91203
+The Hitcher,1986,91209
+Invaders from Mars,1986,91276
+"Jo Jo Dancer, Your Life Is Calling",1986,91295
+The Karate Kid Part II,1986,91326
+Labyrinth,1986,91369
+Little Shop of Horrors,1986,91419
+Manhunter,1986,91474
+Peggy Sue Got Married,1986,91738
+Platoon,1986,91763
+Police Academy 3: Back in Training,1986,91777
+River's Edge,1986,91860
+Running Scared,1986,91875
+Stand by Me,1986,92005
+Star Trek IV: The Voyage Home,1986,92007
+Three Amigos!,1986,92086
+Top Gun,1986,92099
+Tough Guys,1986,92105
+The Transformers: The Movie,1986,92106
+Trick or Treat,1986,92112
+Broadcast News,1987,92699
+Disorderlies,1987,92897
+Evil Dead II,1987,92991
+Fatal Attraction,1987,93010
+Full Metal Jacket,1987,93058
+Hellraiser,1987,93177
+Hope and Glory,1987,93209
+Innerspace,1987,93260
+Lethal Weapon,1987,93409
+Like Father Like Son,1987,93418
+The Living Daylights,1987,93428
+The Lost Boys,1987,93437
+Made in Heaven,1987,93467
+Moonstruck,1987,93565
+My Demon Lover,1987,93589
+Near Dark,1987,93605
+Night of the Demons,1988,93624
+A Nightmare on Elm Street 3: Dream Warriors,1987,93629
+Overboard,1987,93693
+"Planes, Trains & Automobiles",1987,93748
+Predator,1987,93773
+Prince of Darkness,1987,93777
+The Princess Bride,1987,93779
+Raising Arizona,1987,93822
+RoboCop,1987,93870
+Some Kind of Wonderful,1987,94006
+Someone to Watch Over Me,1987,94008
+Spaceballs,1987,94012
+Street Smart,1987,94056
+Superman IV: The Quest for Peace,1987,94074
+Three Men and a Baby,1987,94137
+Tin Men,1987,94155
+Wall Street,1987,94291
+The Witches of Eastwick,1987,94332
+Withnail & I,1987,94336
+Above the Law,1988,94602
+The Accidental Tourist,1988,94606
+Action Jackson,1988,94612
+Alien Nation,1988,94631
+Bad Dreams,1988,94701
+Beetlejuice,1988,94721
+Big,1988,94737
+The Blob,1988,94761
+Bull Durham,1988,94812
+Coming to America,1988,94898
+Die Hard,1988,95016
+A Fish Called Wanda,1988,95159
+Frantic,1988,95174
+The Big Blue,1988,95250
+Halloween 4: The Return of Michael Myers,1988,95271
+Hellbound: Hellraiser II,1988,95294
+Killer Klowns from Outer Space,1988,95444
+The Last Temptation of Christ,1988,95497
+Maniac Cop,1988,95583
+Midnight Run,1988,95631
+The Naked Gun: From the Files of Police Squad!,1988,95705
+A Nightmare on Elm Street 4: The Dream Master,1988,95742
+Cinema Paradiso,1988,95765
+Promised Land,1987,95916
+Rambo III,1988,95956
+Scrooged,1988,96061
+Sleepaway Camp III: Teenage Wasteland,1989,96119
+Tequila Sunrise,1988,96244
+They Live,1988,96256
+Twins,1988,96320
+Waxwork,1988,96426
+Who Framed Roger Rabbit,1988,96438
+Willow,1988,96446
+Working Girl,1988,96463
+Young Guns,1988,96487
+The 'Burbs,1989,96734
+84C MoPic,1989,96744
+The Abyss,1989,96754
+Back to the Future Part II,1989,96874
+Batman,1989,96895
+Bill & Ted's Excellent Adventure,1989,96928
+Black Rain,1989,96933
+Born on the Fourth of July,1989,96969
+Dead Poets Society,1989,97165
+DeepStar Six,1989,97179
+The Killer,1989,97202
+Do the Right Thing,1989,97216
+Driving Miss Daisy,1989,97239
+A Dry White Season,1989,97243
+Erik the Viking,1989,97289
+The Fabulous Baker Boys,1989,97322
+Field of Dreams,1989,97351
+The Fly II,1989,97368
+Friday the 13th Part VIII: Jason Takes Manhattan,1989,97388
+Ghostbusters II,1989,97428
+Harlem Nights,1989,97481
+Heathers,1988,97493
+Hider in the House,1989,97503
+"Honey, I Shrunk the Kids",1989,97523
+Indiana Jones and the Last Crusade,1989,97576
+The Karate Kid Part III,1989,97647
+Lethal Weapon 2,1989,97733
+Leviathan,1989,97737
+Licence to Kill,1989,97742
+The Little Mermaid,1989,97757
+Little Monsters,1989,97758
+The Magic Toyshop,1987,97806
+Major League,1989,97815
+National Lampoon's Christmas Vacation,1989,97958
+A Nightmare on Elm Street: The Dream Child,1989,97981
+Pet Sematary,1989,98084
+Road House,1989,98206
+Say Anything,1989,98258
+Sea of Love,1989,98273
+Star Trek V: The Final Frontier,1989,98382
+True Believer,1989,98524
+Uncle Buck,1989,98554
+The War of the Roses,1989,98621
+We're No Angels,1989,98625
+When Harry Met Sally...,1989,98635
+"Sex, Lies, and Videotape",1989,98724
+The Adventures of Ford Fairlane,1990,98987
+Another 48 Hrs.,1990,99044
+Awakenings,1990,99077
+The Bonfire of the Vanities,1990,99165
+Dances with Wolves,1990,99348
+Darkman,1990,99365
+Desperate Hours,1990,99409
+Die Hard 2,1990,99423
+Edward Scissorhands,1990,99487
+The Exorcist III,1990,99528
+Ghost,1990,99653
+The Godfather Part III,1990,99674
+Goodfellas,1990,99685
+Gremlins 2: The New Batch,1990,99700
+The Grifters,1990,99703
+Hard to Kill,1990,99739
+Hardware,1990,99740
+Home Alone,1990,99785
+The Hunt for Red October,1990,99810
+Jacob's Ladder,1990,99871
+Joe Versus the Volcano,1990,99892
+Leatherface: Texas Chainsaw Massacre III,1990,99994
+Memphis Belle,1990,100133
+Miller's Crossing,1990,100150
+Misery,1990,100157
+Nightbreed,1990,100260
+Predator 2,1990,100403
+Pretty Woman,1990,100405
+The Rescuers Down Under,1990,100477
+State of Grace,1990,100685
+To Sleep with Anger,1990,100791
+Total Recall,1990,100802
+Tremors,1990,100814
+The Two Jakes,1990,100828
+Wild at Heart,1990,100935
+The Addams Family,1991,101272
+American Shaolin,1991,101327
+Backdraft,1991,101393
+Barton Fink,1991,101410
+Bill & Ted's Bogus Journey,1991,101452
+Boyz n the Hood,1991,101507
+Curly Sue,1991,101635
+The Doors,1991,101761
+Dutch,1991,101786
+Father of the Bride,1991,101862
+The Fisher King,1991,101889
+Freddy's Dead: The Final Nightmare,1991,101917
+Hangin' with the Homeboys,1991,101998
+Highlander II: The Quickening,1991,102034
+Hudson Hawk,1991,102070
+JFK,1991,102138
+Kafka,1991,102181
+The Last Boy Scout,1991,102266
+Life Stinks,1991,102303
+Light Sleeper,1992,102307
+Mobsters,1991,102460
+My Girl,1991,102492
+My Own Private Idaho,1991,102494
+New Jack City,1991,102526
+Point Break,1991,102685
+Rambling Rose,1991,102753
+The Rapture,1991,102757
+Robin Hood: Prince of Thieves,1991,102798
+The Rocketeer,1991,102803
+The Silence of the Lambs,1991,102926
+Star Trek VI: The Undiscovered Country,1991,102975
+The Super,1991,103007
+Talkin' Dirty After Dark,1991,103039
+Terminator 2: Judgment Day,1991,103064
+Thelma & Louise,1991,103074
+What About Bob?,1991,103241
+1492: Conquest of Paradise,1992,103594
+Aladdin,1992,103639
+Alien³,1992,103644
+Bad Lieutenant,1992,103759
+Basic Instinct,1992,103772
+Batman Returns,1992,103776
+The Bodyguard,1992,103855
+Boomerang,1992,103859
+Bram Stoker's Dracula,1992,103874
+Buffy the Vampire Slayer,1992,103893
+Candyman,1992,103919
+City of Joy,1992,103976
+The Crying Game,1992,104036
+The Cutting Edge,1992,104040
+Death Becomes Her,1992,104070
+Deep Cover,1992,104073
+The Distinguished Gentleman,1992,104114
+A Few Good Men,1992,104257
+Glengarry Glen Ross,1992,104348
+Hellraiser III: Hell on Earth,1992,104409
+Home Alone 2: Lost in New York,1992,104431
+"Honey, I Blew Up the Kid",1992,104437
+Jennifer 8,1992,104549
+Knight Moves,1992,104627
+The Last of the Mohicans,1992,104691
+Malcolm X,1992,104797
+Man Trouble,1992,104804
+El Mariachi,1992,104815
+The Mighty Ducks,1992,104868
+My Cousin Vinny,1992,104952
+Newsies,1992,104990
+Passenger 57,1992,105104
+Pet Sematary II,1992,105128
+The Player,1992,105151
+The Power of One,1992,105159
+The Public Eye,1992,105187
+Reservoir Dogs,1992,105236
+Single White Female,1992,105414
+Sister Act,1992,105417
+Sneakers,1992,105435
+Thunderheart,1992,105585
+Twin Peaks: Fire Walk with Me,1992,105665
+Under Siege,1992,105690
+Unforgiven,1992,105695
+Where the Day Takes You,1992,105810
+Addams Family Values,1993,106220
+Arcade,,106302
+Arctic Blue,1993,106303
+Army of Darkness,1992,106308
+Batman: Mask of the Phantasm,1993,106364
+Being Human,1994,106379
+Benny & Joon,1993,106387
+"Bodies, Rest & Motion",1993,106447
+Body Snatchers,1993,106452
+Body of Evidence,1992,106453
+CB4,1993,106500
+Cliffhanger,1993,106582
+Coneheads,1993,106598
+Cool Runnings,1993,106611
+Dave,1993,106673
+Dazed and Confused,1993,106677
+Demolition Man,1993,106697
+Even Cowgirls Get the Blues,1993,106834
+Fatal Instinct,1993,106873
+The Firm,1993,106918
+The Fugitive,1993,106977
+Groundhog Day,1993,107048
+Hocus Pocus,1993,107120
+Indecent Proposal,1993,107211
+Jason Goes to Hell: The Final Friday,1993,107254
+Jurassic Park,1993,107290
+Kalifornia,1993,107302
+Leprechaun,1993,107387
+Manhattan Murder Mystery,1993,107507
+The Nightmare Before Christmas,1993,107688
+The Pelican Brief,1993,107798
+A Perfect World,1993,107808
+Philadelphia,1993,107818
+The Piano,1993,107822
+Poetic Justice,1993,107840
+The Program,1993,107889
+The Sandlot,1993,108037
+Schindler's List,1993,108052
+Six Degrees of Separation,1993,108149
+Sleepless in Seattle,1993,108160
+Sliver,1993,108162
+So I Married an Axe Murderer,1993,108174
+Spare Me,1993,108200
+The Thing Called Love,1993,108327
+This Boy's Life,1993,108330
+The Three Musketeers,1993,108333
+Tombstone,1993,108358
+True Romance,1993,108399
+Ace Ventura: Pet Detective,1994,109040
+Blankman,1994,109288
+Clear and Present Danger,1994,109444
+Clerks,1994,109445
+Cobb,1994,109450
+Color of Night,1994,109456
+The Crow,1994,109506
+D2: The Mighty Ducks,1994,109520
+Disclosure,1994,109635
+Dumb and Dumber,1994,109686
+Ed Wood,1994,109707
+The Flintstones,1994,109813
+Forrest Gump,1994,109830
+Four Weddings and a Funeral,1994,109831
+Mary Shelley's Frankenstein,1994,109836
+Freaked,1993,109838
+Heavenly Creatures,1994,110005
+Heavyweights,1995,110006
+Highlander: The Final Dimension,1994,110027
+The Hudsucker Proxy,1994,110074
+I'll Do Anything,1994,110097
+Interview with the Vampire: The Vampire Chronicles,1994,110148
+Killing Zoe,1993,110265
+The Low Life,1995,110400
+The Mask,1994,110475
+Maverick,1994,110478
+Mute Witness,1995,110604
+Natural Born Killers,1994,110632
+Only You,1994,110737
+Before the Rain,1994,110882
+Pulp Fiction,1994,110912
+Quiz Show,1994,110932
+Reality Bites,1994,110950
+Texas Chainsaw Massacre: The Next Generation,1995,110978
+Serial Mom,1994,111127
+Shallow Grave,1994,111149
+The Shawshank Redemption,1994,111161
+Speed,1994,111257
+Star Trek: Generations,1994,111280
+Stranglehold,1994,111300
+True Lies,1994,111503
+New Nightmare,1994,111686
+The American President,1995,112346
+Apollo 13,1995,112384
+Assassins,1995,112401
+Bad Boys,1995,112442
+Batman Forever,1995,112462
+The Brady Bunch Movie,1995,112572
+Braveheart,1995,112573
+The Bridges of Madison County,1995,112579
+A Bucket of Blood,,112594
+Casino,1995,112641
+Casper,1995,112642
+Clockers,1995,112688
+Clueless,1995,112697
+Copycat,1995,112722
+Devil in a Blue Dress,1995,112857
+Die Hard with a Vengeance,1995,112864
+Four Rooms,1995,113101
+Friday,1995,113118
+Full Body Massage,,113131
+Get Shorty,1995,113161
+GoldenEye,1995,113189
+A Goofy Movie,1995,113198
+Hackers,1995,113243
+Halloween: The Curse of Michael Myers,1995,113253
+Heat,1995,113277
+Judge Dredd,1995,113492
+Jumanji,1995,113497
+Kids,1995,113540
+Leaving Las Vegas,1995,113627
+Living in Oblivion,1995,113677
+Lord of Illusions,1995,113690
+Mallrats,1995,113749
+Mighty Morphin Power Rangers,1995,113820
+Mr. Holland's Opus,1995,113862
+Nick of Time,1995,113972
+Nixon,1995,113987
+Othello,1995,114057
+Outbreak,1995,114069
+Panther,1995,114084
+The Prophecy,1995,114194
+The Scarlet Letter,1995,114345
+Se7en,1995,114369
+Sense and Sensibility,1995,114388
+Showgirls,1995,114436
+Smoke,1995,114478
+Strange Days,1995,114558
+Superfights,1996,114582
+Three Wishes,1995,114663
+Toy Story,1995,114709
+12 Monkeys,1995,114746
+The Usual Suspects,1995,114814
+Virtuosity,1995,114857
+While You Were Sleeping,1995,114924
+101 Dalmatians,1996,115433
+Bad Moon,1996,115610
+Basquiat,1996,115632
+Beavis and Butt-Head Do America,1996,115641
+The Birdcage,1996,115685
+Blood and Wine,1996,115710
+Bottle Rocket,1996,115734
+Bound,1996,115736
+Broken Arrow,1996,115759
+The Cable Guy,1996,115798
+Courage Under Fire,1996,115956
+The Craft,1996,115963
+The Crow: City of Angels,1996,115986
+D3: The Mighty Ducks,1996,116000
+DragonHeart,1996,116136
+The English Patient,1996,116209
+Escape from L.A.,1996,116225
+Executive Decision,1996,116253
+Fargo,1996,116282
+The Frighteners,1996,116365
+From Dusk Till Dawn,1996,116367
+The Ghost and the Darkness,1996,116409
+Independence Day,1996,116629
+The Island of Dr. Moreau,1996,116654
+Jerry Maguire,1996,116695
+Jingle All the Way,1996,116705
+Kingpin,1996,116778
+Lone Star,1996,116905
+The Long Kiss Goodnight,1996,116908
+Lost Highway,1997,116922
+Mars Attacks!,1996,116996
+Mission: Impossible,1996,117060
+Moebius,1996,117069
+The Phantom,1996,117331
+The Rock,1996,117500
+Romeo + Juliet,1996,117509
+Scream,1996,117571
+Shine,1996,117631
+Sleepers,1996,117665
+Sling Blade,1996,117666
+Star Trek: First Contact,1996,117731
+Steel Sharks,1997,117738
+Swingers,1996,117802
+A Thin Line Between Love and Hate,1996,117891
+Tin Cup,1996,117918
+Trainspotting,1996,117951
+White Squall,1996,118158
+One Eight Seven,1997,118531
+Absolute Power,1997,118548
+Affliction,1997,118564
+Air Force One,1997,118571
+Alien: Resurrection,1997,118583
+An American Werewolf in Paris,1997,118604
+Amistad,1997,118607
+Anaconda,1997,118615
+Anastasia,1997,118617
+Apt Pupil,1998,118636
+The Assignment,1997,118647
+Austin Powers: International Man of Mystery,1997,118655
+Batman & Robin,1997,118688
+Bean,1997,118689
+The Big Lebowski,1998,118715
+Boogie Nights,1997,118749
+Booty Call,1997,118750
+Breakdown,1997,118771
+Chasing Amy,1997,118842
+Con Air,1997,118880
+Conspiracy Theory,1997,118883
+Contact,1997,118884
+Gang Related,1997,118900
+Dark City,1998,118929
+Deep Rising,1998,118956
+The Devil's Advocate,1997,118971
+Donnie Brasco,1997,119008
+Event Horizon,1997,119081
+Face/Off,1997,119094
+Fallen,1998,119099
+The Fifth Element,1997,119116
+G.I. Jane,1997,119173
+The Game,1997,119174
+Gattaca,1997,119177
+Good Will Hunting,1997,119217
+Great Expectations,1998,119223
+Grosse Pointe Blank,1997,119229
+Mrs. Brown,1997,119280
+The Horse Whisperer,1998,119314
+The Ice Storm,1997,119349
+Inventing the Abbotts,1997,119381
+Jackie Brown,1997,119396
+Kundun,1997,119485
+L.A. Confidential,1997,119488
+Liar Liar,1997,119528
+The Lost World: Jurassic Park,1997,119567
+Meet Joe Black,1998,119643
+Men in Black,1997,119654
+Metro,1997,119664
+Mimic,1997,119675
+My Best Friend's Wedding,1997,119738
+As Good as It Gets,1997,119822
+The Postman,1997,119925
+Primary Colors,1998,119942
+The Relic,1997,120004
+The Saint,1997,120053
+Scream 2,1997,120082
+Soldier,1998,120157
+Spacejacked,,120174
+Spawn,1997,120177
+Sphere,1998,120184
+Three Kings,1999,120188
+Starship Troopers,1997,120201
+State and Main,2000,120202
+SubUrbia,1996,120238
+The Sweet Hereafter,1997,120255
+A Simple Plan,1998,120324
+Titanic,1997,120338
+Tomorrow Never Dies,1997,120347
+The Truman Show,1998,120382
+U Turn,1997,120399
+American History X,1998,120586
+Antz,1998,120587
+Armageddon,1998,120591
+Being John Malkovich,1999,120601
+Beloved,1998,120603
+Blade,1998,120611
+The Mummy,1999,120616
+A Bug's Life,1998,120623
+Deep Impact,1998,120647
+Dogma,1999,120655
+Enemy of the State,1998,120660
+Eyes Wide Shut,1999,120663
+Fantastic Four,2005,120667
+Fear and Loathing in Las Vegas,1998,120669
+From Hell,2001,120681
+Gods and Monsters,1998,120684
+Godzilla,1998,120685
+Stepmom,1998,120686
+The Green Mile,1999,120689
+Halloween H20: 20 Years Later,1998,120694
+Hard Rain,1998,120696
+"Lock, Stock and Two Smoking Barrels",1998,120735
+The Lord of the Rings: The Fellowship of the Ring,2001,120737
+Lost in Space,1998,120738
+The Man in the Iron Mask,1998,120744
+The Mask of Zorro,1998,120746
+Mighty Joe Young,1998,120751
+Mission: Impossible II,2000,120755
+Mulan,1998,120762
+A Night at the Roxbury,1998,120770
+Out of Sight,1998,120780
+The Parent Trap,1998,120783
+Pleasantville,1998,120789
+RKO 281,,120801
+Resident Evil,2002,120804
+Rush Hour,1998,120812
+Saving Private Ryan,1998,120815
+The Shipping News,2001,120824
+Snake Eyes,1998,120832
+Snow Falling on Cedars,1999,120834
+Star Trek: Insurrection,1998,120844
+The Thin Red Line,1998,120863
+Wag the Dog,1997,120885
+The Wedding Singer,1998,120888
+What Dreams May Come,1998,120889
+Wild Things,1998,120890
+Wild Wild West,1999,120891
+Wrongfully Accused,1998,120901
+The X Files,1998,120902
+X-Men,2000,120903
+eXistenZ,1999,120907
+Star Wars: Episode I - The Phantom Menace,1999,120915
+Corpse Bride,2005,121164
+Star Wars: Episode II - Attack of the Clones,2002,121765
+Lethal Weapon 4,1998,122151
+Return to Me,2000,122459
+Henry Fool,1997,122529
+Ronin,1998,122690
+Analyze This,1999,122933
+Life,1999,123964
+Very Bad Things,1998,124198
+Blast from the Past,1999,124298
+The Cider House Rules,1999,124315
+Notting Hill,1999,125439
+Man on the Moon,1999,125664
+Shrek,2001,126029
+Legionnaire,1998,126388
+Election,1999,126886
+Rounders,1998,128442
+Rushmore,1998,128445
+You've Got Mail,1998,128853
+The Iron Giant,1999,129167
+There's Something About Mary,1998,129387
+I Still Know What You Did Last Summer,1998,130018
+Edtv,1999,131369
+Tower of Terror,,131620
+Mystery Men,1999,132347
+At First Sight,1999,132512
+The Crow: Salvation,2000,132910
+The Matrix,1999,133093
+Planet of the Apes,2001,133152
+The Faculty,1998,133751
+The Siege,1998,133952
+Scream 3,2000,134084
+The Talented Mr. Ripley,1999,134119
+8MM,1999,134273
+Pitch Black,2000,134847
+Entrapment,1999,137494
+Fight Club,1999,137523
+Nightbirds,1970,137982
+Shakespeare in Love,1998,138097
+Intolerable Cruelty,2003,138524
+Pi,1998,138704
+Cherry,1999,139112
+Cruel Intentions,1999,139134
+Go,1999,139239
+Lake Placid,1999,139414
+Training Day,2001,139654
+True Crime,1999,139668
+The Insider,1999,140352
+Mumford,1999,140397
+Route 9,,140519
+The Corruptor,1999,142192
+The Ninth Gate,1999,142688
+The World Is Not Enough,1999,143145
+American Psycho,2000,144084
+The Boondock Saints,1999,144117
+Committed,2000,144142
+The General's Daughter,1999,144214
+The Rage: Carrie 2,1999,144814
+Highlander: Endgame,2000,144964
+Little Men,1998,145048
+Spider-Man,2002,145487
+Austin Powers: The Spy Who Shagged Me,1999,145660
+Thirteen Days,2000,146309
+Lara Croft: Tomb Raider,2001,146316
+End of Days,1999,146675
+Any Given Sunday,1999,146838
+High Fidelity,2000,146882
+Happiness,1998,147612
+10 Things I Hate About You,1999,147800
+The Messenger: The Story of Joan of Arc,1999,151137
+Never Been Kissed,1999,151738
+Office Space,1999,151804
+Following,1998,154506
+Drop Dead Gorgeous,1999,157503
+"South Park: Bigger, Longer & Uncut",1999,158983
+Cold Mountain,2003,159365
+Croupier,1998,159382
+Charlie's Angels,2000,160127
+Lost Souls,2000,160484
+What Lies Beneath,2000,161081
+Cast Away,2000,162222
+Ghost World,2001,162346
+Sleepy Hollow,1999,162661
+Jurassic Park III,2001,163025
+Runaway Bride,1999,163187
+Chill Factor,1999,163579
+American Pie,1999,163651
+The Beach,2000,163978
+Bringing Out the Dead,1999,163988
+Hollow Man,2000,164052
+Sidewalks of New York,1923,164167
+Stir of Echoes,1999,164181
+Highway,2002,165361
+Detroit Rock City,1999,165710
+The Limey,1999,165854
+Romeo Must Die,2000,165929
+Bones,2001,166110
+Monkeybone,2001,166276
+The Straight Story,1999,166896
+Mulholland Drive,2001,166924
+Music of the Heart,1999,166943
+Hellboy,2004,167190
+The Lord of the Rings: The Return of the King,2003,167260
+The Lord of the Rings: The Two Towers,2002,167261
+The Sixth Sense,1999,167404
+Thunderbirds,2004,167456
+Lagaan: Once Upon a Time in India,2001,169102
+American Beauty,1999,169547
+How the Grinch Stole Christmas,2000,170016
+The Haunting,1999,171363
+Nurse Betty,2000,171580
+Boys Don't Cry,1999,171804
+Gladiator,2000,172495
+Cecil B. Demented,2000,173716
+Autumn in New York,2000,174480
+Scary Movie,2000,175142
+Cherry Falls,2000,175526
+Magnolia,1999,175880
+Sandman,1998,176118
+My Mother Dreams the Satan's Disciples in New York,1998,177023
+Galaxy Quest,1999,177789
+The Perfect Storm,2000,177971
+Ringu,1998,178868
+15 Minutes,2001,179626
+Quills,2000,180073
+Requiem for a Dream,2000,180093
+Minority Report,2002,181689
+Terminator 3: Rise of the Machines,2003,181852
+Traffic,2000,181865
+Almost Famous,2000,181875
+Boiler Room,2000,181984
+Mission to Mars,2000,183523
+Phone Booth,2002,183649
+A Knight's Tale,2001,183790
+Reindeer Games,2000,184858
+Wonder Boys,2000,185014
+Battlefield Earth,2000,185183
+House on Haunted Hill,1999,185371
+Little Nicky,2000,185431
+The Base,,185908
+Frequency,2000,186151
+Space Cowboys,2000,186566
+Sugar & Spice,2001,186589
+Gone in 60 Seconds,2000,187078
+The Patriot,2000,187393
+Blade II,2002,187738
+Birthday Girl,2001,188453
+"Crouching Tiger, Hidden Dragon",2000,190332
+"O Brother, Where Art Thou?",2000,190590
+The Replacements,2000,191397
+The Star Wars Holiday Special,,193524
+Erin Brockovich,2000,195685
+Final Destination,2000,195714
+Next Friday,2000,195945
+Ticker,2001,196158
+"Monsters, Inc.",2001,198781
+Love & Basketball,2000,199725
+Red Planet,2000,199753
+Plastic Man,,200365
+You Can Count on Me,2000,203230
+Save the Last Dance,2001,206275
+Children of Men,2006,206634
+What Women Want,2000,207201
+Snatch,2000,208092
+Get Carter,2000,208988
+Memento,2000,209144
+The Mummy Returns,2001,209163
+The Cell,2000,209958
+Ginger Snaps,2000,210070
+Happy Campers,2001,210094
+Fortune Cookie,1999,210688
+If I Had a Hammer,1999,210742
+Jason X,2001,211443
+Amélie,2001,211915
+Awake,2007,211933
+A.I. Artificial Intelligence,2001,212720
+Hannibal,2001,212985
+Pearl Harbor,2001,213149
+Bamboozled,2000,215545
+Gangs of New York,2002,217505
+Unbreakable,2000,217869
+Antitrust,2001,218817
+The Family Man,2000,218967
+Human Nature,2001,219822
+Halloween: Resurrection,2002,220506
+Blow,2001,221027
+Chasing Sleep,2000,221069
+Fogg's Millions,1914,221183
+Seven Days to Live,2000,221928
+Angel Eyes,2001,225071
+Made,2001,227005
+Spy Kids,2001,227538
+Proof of Life,2000,228750
+Book of Shadows: Blair Witch 2,2000,229260
+The Others,2001,230600
+Sweet November,2001,230838
+The Fast and the Furious,2001,232500
+Collateral Damage,2002,233469
+The Matrix Reloaded,2003,234215
+Pilot,,235326
+The Salton Sea,2002,235737
+Queen of the Damned,2002,238546
+Bloody Murder,,240380
+Five Feet High and Rising,2000,240507
+The Four Feathers,2002,240510
+Ocean's Eleven,2001,240772
+Slackers,2002,240900
+Harry Potter and the Sorcerer's Stone,2001,241527
+The Matrix Revolutions,2003,242653
+Valentine,2001,242998
+The Man Who Wasn't There,2001,243133
+Bridget Jones's Diary,2001,243155
+Stuart Little 2,2002,243585
+American Outlaws,2001,244000
+Swordfish,2001,244244
+Thir13en Ghosts,2001,245674
+Donnie Darko,2001,246578
+The Believer,2001,247199
+In the Bedroom,2001,247425
+Ali,2001,248667
+A Labor of Love,1976,249672
+Storytelling,2001,250081
+Legally Blonde,2001,250494
+Carnivore,2000,251005
+Evolution,2001,251075
+John Q,2002,251160
+Christmas at Pee-wee's Playhouse,,251640
+House of 1000 Corpses,2003,251736
+Heist,2001,252503
+The Bunker,2001,252963
+The Pianist,2002,253474
+Star Trek: Nemesis,2002,253754
+The Anniversary Party,2001,254099
+Baby Boy,2001,255819
+Possession,2002,256276
+Road to Perdition,2002,257044
+Scary Movie 2,2001,257106
+Panic Room,2002,258000
+S1m0ne,2002,258153
+The Bourne Identity,2002,258463
+Ghost Rider,2007,259324
+Vanilla Sky,2001,259711
+Taking Sides,2001,260414
+Jay and Silent Bob Strike Back,2001,261392
+George Washington,2000,262432
+Jeepers Creepers,2001,263488
+2001 Maniacs,2005,264323
+Basic,2003,264395
+Catch Me If You Can,2002,264464
+Frailty,2001,264616
+Life as a House,2001,264796
+The Rookie,2002,265662
+The Royal Tenenbaums,2001,265666
+Death to Smoochy,2002,266452
+Finding Nemo,2003,266543
+Kill Bill: Vol. 1,2003,266697
+Rush Hour 2,2001,266915
+Adaptation.,2002,268126
+The Time Machine,2002,268695
+A Beautiful Mind,2001,268978
+The Majestic,2001,268995
+Confessions of a Dangerous Mind,2002,270288
+Eight Legged Freaks,2002,271367
+The Last Castle,2001,272020
+K-PAX,2001,272152
+Punch-Drunk Love,2002,272338
+Hellraiser: Hellseeker,,274546
+Below,2002,276816
+I Am Sam,2001,277027
+Enough,2002,278435
+Insomnia,2002,278504
+The Good Girl,2002,279113
+A Walk to Remember,2002,281358
+They,2002,283632
+Monster's Ball,2001,285742
+Signs,2002,286106
+Stolen Summer,2002,286162
+Who's Your Daddy?,,287138
+Daredevil,2003,287978
+Ghost Ship,2002,288477
+28 Days Later,2002,289043
+Red Dragon,2002,289765
+Analyze That,2002,289848
+The Butterfly Effect,2004,289879
+The Life of David Gale,2003,289992
+The Rules of Attraction,2002,292644
+Metropolis,2001,293416
+The Phantom of the Opera,2004,293508
+Rent,2005,294870
+Austin Powers in Goldmember,2002,295178
+Harry Potter and the Chamber of Secrets,2002,295297
+xXx,2002,295701
+Star Wars: The Empire Strikes Back,,296869
+Far from Heaven,2002,297884
+The Ring,2002,298130
+8 Mile,2002,298203
+Hero,2002,299977
+Slash,2002,301848
+Barely Legal,2003,302297
+531,2001,303593
+Barbershop,2002,303714
+Bloody Murder 2: Closing Camp,,303732
+Harry Potter and the Prisoner of Azkaban,2004,304141
+American Splendor,2003,305206
+Cradle 2 the Grave,2003,306685
+Solaris,2002,307479
+Burning Annie,2004,307879
+25th Hour,2002,307901
+Bad Santa,2003,307987
+The Human Stain,2003,308383
+Final Destination 2,2003,309593
+Willard,2003,310357
+Confidence,2003,310910
+Crime Spree,2003,310924
+Master and Commander: The Far Side of the World,2003,311113
+Love Actually,2003,314331
+Bruce Almighty,2003,315327
+Spider-Man 2,2004,316654
+The Hebrew Hammer,2003,317640
+The Incredibles,2004,317705
+The Italian Job,2003,317740
+Mission: Impossible III,2006,317919
+The Cooler,2003,318374
+Big Fish,2003,319061
+Elf,2003,319343
+Underworld,2003,320691
+2 Fast 2 Furious,2003,322259
+Suspect Zero,2004,324127
+The Last Samurai,2003,325710
+Matchstick Men,2003,325805
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,325980
+Secondhand Lions,2003,327137
+Catwoman,2004,327554
+Coraline,2009,327597
+Malibu's Most Wanted,2003,328099
+Man on Fire,2004,328107
+Thirteen,2003,328538
+Dumb and Dumberer: When Harry Met Lloyd,2003,329028
+Freddy vs. Jason,2003,329101
+Harry Potter and the Goblet of Fire,2005,330373
+Troy,2004,332452
+Garden State,2004,333766
+Girl with a Pearl Earring,2003,335119
+The Ladykillers,2004,335245
+Lost in Translation,2003,335266
+The Passion of the Christ,2004,335345
+Hellraiser: Deader,,337636
+Something's Gotta Give,2003,337741
+Cellular,2004,337921
+Eternal Sunshine of the Spotless Mind,2004,338013
+Grand Theft Parsons,2003,338075
+The Haunted Mansion,2003,338094
+Van Helsing,2004,338526
+The Aviator,2004,338751
+Encrypt,,338963
+Hostage,2005,340163
+Monster,2003,340855
+The Good Shepherd,2006,343737
+"I, Robot",2004,343818
+Howl's Moving Castle,2004,347149
+Gothika,2003,348836
+Ocean's Twelve,2004,349903
+Walking Tall,2004,351977
+Cinderella Man,2005,352248
+Memories of Murder,2003,353969
+Mr. & Mrs. Smith,2005,356910
+Anchorman: The Legend of Ron Burgundy,2004,357413
+The Battle of Shaker Heights,2003,357470
+Blade: Trinity,2004,359013
+The Secret Life of Walter Mitty,2013,359950
+Spartan,2004,360009
+Constantine,2005,360486
+King Kong,2005,360717
+The Woodsman,2004,361127
+Inglourious Basterds,2009,361748
+The Box,2009,362478
+Fear of Clowns,,362636
+New York Minute,2004,363282
+Asylum,2003,363445
+Dawn of the Dead,2004,363547
+Secret Window,2004,363988
+Taking Lives,2004,364045
+The Matador,2005,365485
+Syriana,2005,365737
+Shaun of the Dead,2004,365748
+Whiteout,2009,365929
+Happy Feet,2006,366548
+Harold & Kumar Go to White Castle,2004,366551
+The Jacket,2005,366627
+The Squid and the Whale,2005,367089
+Indiana Jones and the Kingdom of the Crystal Skull,2008,367882
+The Manchurian Candidate,2004,368008
+The Room,2003,368226
+The Village,2004,368447
+National Treasure,2004,368891
+Alone in the Dark,2005,369226
+Collateral,2004,369339
+Alien vs. Predator,2004,370263
+Spanglish,2004,371246
+Stay,2005,371257
+The Hitchhiker's Guide to the Galaxy,2005,371724
+Iron Man,2008,371746
+The Bourne Supremacy,2004,372183
+The Wedding Date,2005,372532
+Team America: World Police,2004,372588
+Batman Begins,2005,372784
+Kiss Kiss Bang Bang,2005,373469
+Harry Potter and the Order of the Phoenix,2007,373889
+The Interpreter,2005,373926
+Munna Bhai M.B.B.S.,2003,374887
+Napoleon Dynamite,2004,374900
+Sideways,2004,375063
+Tristan + Isolde,2006,375154
+Crash,2004,375679
+Sexual Life,2004,376874
+Mean Girls,2004,377092
+Dead Birds,2004,377749
+Kill Bill: Vol. 2,2004,378194
+Capote,2005,379725
+Serenity,2005,379786
+The Lovely Bones,2009,380510
+Casino Royale,2006,381061
+Special,2003,381613
+3:10 to Yuma,2007,381849
+Planetfall,2005,382910
+Ratatouille,2007,382932
+"Synecdoche, New York",2008,383028
+Pirates of the Caribbean: Dead Man's Chest,2006,383574
+Ask the Dust,2006,384814
+Motherless Brooklyn,2019,385887
+Where the Wild Things Are,2009,386117
+The Legend of Zorro,2005,386140
+Saw,2004,387564
+Idiocracy,2006,387808
+The Black Dahlia,2006,387877
+Brokeback Mountain,2005,388795
+30 Days of Night,2007,389722
+Bee Movie,2007,389790
+Click,2006,389860
+Maria Full of Grace,2004,390221
+The Grudge,2004,391198
+Brick,2005,393109
+Hotel Rwanda,2004,395169
+The Devil's Rejects,2005,395584
+The Pacifier,2005,395699
+Wedding Crashers,2005,396269
+The Skeleton Key,2005,397101
+Memoirs of a Geisha,2005,397535
+Assault on Precinct 13,2005,398712
+A History of Violence,2005,399146
+The Island,2005,399201
+Lord of War,2005,399295
+The Diving Bell and the Butterfly,2007,401383
+Breach,2007,401997
+The New World,2005,402399
+The Big White,2005,402850
+Chaos,2005,402910
+Night Watch,2004,403358
+Perfect Creature,2006,403407
+Youth in Revolt,2009,403702
+The 40-Year-Old Virgin,2005,405422
+Rang De Basanti,2006,405508
+All the King's Men,2006,405676
+Zathura: A Space Adventure,2005,406375
+War of the Worlds,2005,407304
+Battlestar Galactica,,407362
+Complete Guide to Guys,2005,407680
+The Departed,2006,407887
+Sweeney Todd: The Demon Barber of Fleet Street,2007,408236
+Flightplan,2005,408790
+Last Holiday,2006,408985
+Watchmen,2009,409459
+Cowboys & Aliens,2011,409847
+Hustle & Flow,2005,410097
+Hellboy II: The Golden Army,2008,411477
+Shrek the Third,2007,413267
+Elizabeth: The Golden Age,2007,414055
+Pride & Prejudice,2005,414387
+Talladega Nights: The Ballad of Ricky Bobby,2006,415306
+Match Point,2005,416320
+300,2006,416449
+Crazylove,2005,416658
+Two for the Money,2005,417217
+12 and Holding,2005,417385
+Harry Potter and the Half-Blood Prince,2009,417741
+Little Athens,2005,417907
+The Surfer King,2006,418206
+Transformers,2007,418279
+Jarhead,2005,418763
+Land of the Dead,2005,418819
+Doom,2005,419706
+Stranger Than Fiction,2006,420223
+Domino,2005,421054
+Zerophilia,2005,421090
+Red Eye,2005,421239
+The Curious Case of Benjamin Button,2008,421715
+Warm Springs,,423510
+Charlie Bartlett,2007,423977
+Clerks II,2006,424345
+Game 6,2005,425055
+Hot Fuzz,2007,425112
+Jimmy and Judy,2006,425151
+Lucky Number Slevin,2006,425210
+Mini's First Time,2006,425253
+Feast,2005,426459
+Dinner for Schmucks,2010,427152
+Thank You for Smoking,2005,427944
+Get Rich or Die Tryin',2005,430308
+Miami Vice,2006,430357
+Basic Instinct 2,2006,430912
+The Kingdom,2007,431197
+Fantastic Mr. Fox,2009,432283
+V for Vendetta,2005,434409
+The Descent,2005,435625
+The Giver,2014,435651
+Next,2007,435705
+Toy Story 3,2010,435761
+The Queen,2006,436697
+Terminator Salvation,2009,438488
+Slither,2006,439815
+The Bourne Ultimatum,2007,440963
+Kung Fu Panda,2008,441773
+Beowulf,2007,442933
+Lincoln,2012,443272
+Vantage Point,2008,443274
+"10,000 BC",2008,443649
+The Assassination of Jesse James by the Coward Robert Ford,2007,443680
+Zodiac,2007,443706
+Blades of Glory,2006,445934
+The Burrowers,2008,445939
+Scott Pilgrim vs. the World,2010,446029
+Sunshine,2007,448134
+Hancock,2008,448157
+Wild Things: Diamonds in the Rough,,448179
+Little Miss Sunshine,2006,449059
+Dominion,2005,449086
+Pirates of the Caribbean: At World's End,2007,449088
+Babel,2006,449467
+Passengers,2008,449487
+16 Blocks,2006,450232
+Blood Diamond,2006,450259
+Hostel,2005,450278
+1408,2007,450385
+Cirque du Freak: The Vampire's Assistant,2009,450405
+Wonder Woman,2017,451279
+Gone Baby Gone,2007,452623
+Lady in the Water,2006,452637
+The Time Traveler's Wife,2009,452694
+Vacancy,2007,452702
+TMNT,2007,453556
+42,2013,453562
+Black Christmas,2006,454082
+The Hills Have Eyes,2006,454841
+Life of Pi,2012,454876
+The Pursuit of Happyness,2006,454921
+The Crazies,2010,455407
+How to Lose Friends & Alienate People,2008,455538
+John Tucker Must Die,2006,455967
+Pan's Labyrinth,2006,457430
+The Holiday,2006,457939
+Captain America: The First Avenger,2011,458339
+The Devil Wears Prada,2006,458352
+A Long Way Down,2014,458413
+El cantante,2006,458522
+X-Men Origins: Wolverine,2009,458525
+Black Snake Moan,2006,462200
+How to Eat Fried Worms,2006,462346
+28 Weeks Later,2007,463854
+Piranha 3D,2010,464154
+Severance,2006,464196
+Michael Clayton,2007,465538
+Margaret,2011,466893
+Max Payne,2008,467197
+The Other Boleyn Girl,2008,467200
+Juno,2007,467406
+The Dark Knight,2008,468569
+Red White Black & Blue,2006,469169
+"Sorry, Right Number",2005,469188
+There Will Be Blood,2007,469494
+Things We Lost in the Fire,2007,469623
+Ex Machina,2014,470752
+Tower Heist,2011,471042
+9,2009,472033
+Charlie Wilson's War,2007,472062
+The Smurfs,2011,472181
+Notorious,2009,472198
+The Mechanic,2011,472399
+Prince of Persia: The Sands of Time,2010,473075
+State of Play,2009,473705
+"Hail, Caesar!",2016,475290
+Smokin' Aces,2006,475394
+The Brave One,2007,476964
+Rocket Science,2007,477078
+No Country for Old Men,2007,477348
+In the Valley of Elah,2007,478134
+The Tree of Life,2011,478304
+Knocked Up,2007,478311
+Rocky Balboa,2006,479143
+Crank,2006,479884
+Last Time Forever,2006,479942
+Season of the Witch,2011,479997
+I Am Legend,2007,480249
+The Losers,2010,480255
+Hall Pass,2011,480687
+The Croods,2013,481499
+The Prestige,2006,482571
+The Strangers,2008,482606
+Mr. Nobody,2009,485947
+Wind Chill,2007,486051
+Stardust,2007,486655
+Disturbia,2007,486822
+Wild Hogs,2007,486946
+Fracture,2007,488120
+12,2007,488478
+My Name Is Bruce,2007,489235
+All the Boys Love Mandy Lane,2006,490076
+Silence,2016,490215
+Something Borrowed,2011,491152
+Suburbicon,2017,491175
+Away from Her,2006,491747
+Wanted,2008,493464
+Vicky Cristina Barcelona,2008,497465
+We Own the Night,2007,498399
+Avatar,2009,499549
+The Man of Steel Bars,,635199
+Margot at the Wedding,2007,757361
+Love & Other Drugs,2010,758752
+Into the Wild,2007,758758
+Body of Lies,2008,758774
+Custody,,759956
+Planet 51,2009,762125
+American Gangster,2007,765429
+Eastern Promises,2007,765443
+The Savages,2007,775529
+Drive,2011,780504
+In Bruges,2008,780536
+Mr. Brooks,2007,780571
+Atonement,2007,783233
+The Boxtrolls,2014,787474
+Dallas Buyers Club,2013,790636
+Mirrors,2008,790686
+The Messenger,2009,790712
+Normal Adolescent Behavior,2007,790721
+Jack Reacher,2012,790724
+Miles Ahead,2015,790770
+Case 39,2009,795351
+Death at a Funeral,2007,795368
+Lost Easily Horizons,2009,795438
+Scary Movie V,2013,795461
+Star Trek,2009,796366
+Forgetting Sarah Marshall,2008,800039
+The Incredible Hulk,2008,800080
+Deception,2008,800240
+Clash of the Titans,2010,800320
+Thor,2011,800369
+Death Sentence,2007,804461
+It's Kind of a Funny Story,2010,804497
+Rendition,2007,804522
+Lars and the Real Girl,2007,805564
+Angels & Demons,2009,808151
+Bright Star,2009,810784
+The Danish Girl,2015,810819
+The Nines,2007,810988
+Speed Racer,2008,811080
+Percy Jackson & the Olympians: The Lightning Thief,2010,814255
+She's Out of My League,2010,815236
+Conan the Barbarian,2011,816462
+Interstellar,2014,816692
+Flipped,2010,817177
+The Tattooist,2007,817228
+Valentine's Day,2010,817230
+Marley & Me,2008,822832
+Priest,2011,822847
+Changeling,2008,824747
+The Last Station,2009,824758
+The Bucket List,2007,825232
+Honeydripper,2007,829193
+Superbad,2007,829482
+Godzilla,2014,831387
+Reservation Road,2007,831884
+Pet Sematary,2019,837563
+After.Life,2009,838247
+Step Brothers,2008,838283
+Semi-Pro,2008,839980
+The Town,2010,840361
+Walk Hard: The Dewey Cox Story,2007,841046
+The Kids Are All Right,2010,842926
+The Brothers Bloom,2008,844286
+Cloudy with a Chance of Meatballs,2009,844471
+All God's Children Can Dance,2008,847214
+The Avengers,2012,848228
+The House Bunny,2008,852713
+The Visitor,2007,857191
+Timber Falls,2007,857295
+The Mummy: Tomb of the Dragon Emperor,2008,859163
+Sunshine Cleaning,2008,862846
+Trick 'r Treat,2007,862856
+Frost/Nixon,2008,870111
+Nine,2009,875034
+The Blind Side,2009,878804
+Please Give,2010,878835
+Untraceable,2008,880578
+All About Steve,2009,881891
+Burn After Reading,2008,887883
+The Hurt Locker,2008,887912
+While She Was Out,2008,887971
+Letters to Juliet,2010,892318
+How to Train Your Dragon,2010,892769
+The Whistleblower,2010,896872
+The Road,2009,898367
+Pineapple Express,2008,910936
+WALL·E,2008,910970
+Armored,2009,913354
+Broken Embraces,2009,913425
+44 Inch Chest,2009,914837
+Unthinkable,2010,914863
+Doubt,2008,918927
+Harry Potter and the Deathly Hallows: Part 1,2010,926084
+Precious,2009,929632
+Rabbit Hole,2010,935075
+The Last Airbender,2010,938283
+Tropic Thunder,2008,942385
+Salt,2010,944835
+Source Code,2011,945513
+Black Swan,2010,947798
+The Happening,2008,949731
+Revolutionary Road,2008,959337
+The Ruins,2008,963794
+The Fighter,2010,964517
+The Conspirator,2010,968264
+Hugo,2011,970179
+Solomon Kane,2009,970452
+Creation,2009,974014
+17 Again,2009,974661
+Hitchcock,2012,975645
+The Reader,2008,976051
+Fair Game,2010,977855
+Frozen River,2008,978759
+Nick and Norah's Infinite Playlist,2008,981227
+The Adventures of Tintin,2011,983193
+Machete,2010,985694
+Valkyrie,2008,985699
+Surrogates,2009,986263
+Sherlock Holmes,2009,988045
+Dear John,2010,989757
+Sugar,2008,990413
+Hanna,2011,993842
+The Wolf of Wall Street,2013,993846
+Sex and the City,2008,1000774
+He's Just Not That Into You,2009,1001508
+Megamind,2010,1001526
+The Little Things,2021,10016180
+The Humans,2021,10023286
+2:13,2009,1002561
+Antebellum,2020,10065694
+The Iron Lady,2011,1007029
+The Tragedy of Macbeth,2021,10095582
+Slumdog Millionaire,2008,1010048
+Knight and Day,2010,1013743
+Milk,2008,1013753
+Alice in Wonderland,2010,1014759
+Train,2008,1015474
+All Quiet on the Western Front,2022,1016150
+Bones and All,2022,10168670
+Splice,2009,1017460
+A Serious Man,2009,1019452
+Selma,2014,1020072
+500 Days of Summer,2009,1022603
+The Way Back,2010,1023114
+I'm Your Woman,2020,10243992
+Argo,2012,1024648
+Land,2021,10265034
+The Father,2020,10272386
+Work It,2020,10276470
+Wall Street: Money Never Sleeps,2010,1027718
+French Exit,2020,10279362
+Death Proof,2007,1028528
+The Power of the Dog,2021,10293406
+Amsterdam,2022,10304142
+RocknRolla,2008,1032755
+The Descendants,2011,1033575
+Gamer,2009,1034032
+Armageddon Time,2022,10343028
+Suspiria,2018,1034415
+CODA,2021,10366460
+The Book of Eli,2010,1037705
+Legion,2010,1038686
+The Bounty Hunter,2010,1038919
+The Proposal,2009,1041829
+Nine Days,2020,10451852
+Silver Linings Playbook,2012,1045658
+Happy-Go-Lucky,2008,1045670
+I Love You Phillip Morris,2009,1045772
+Year One,2009,1045778
+G.I. Joe: The Rise of Cobra,2009,1046173
+Last Chance Harvey,2008,1046947
+Up,2009,1049413
+Made for Each Other,2009,1051241
+The Midnight Sky,2020,10539608
+The Imaginarium of Doctor Parnassus,2009,1054606
+Invictus,2009,1057500
+The Invention of Lying,2009,1058017
+Eagle Eye,2008,1059786
+Cloverfield,2008,1060277
+One Night in Miami...,2020,10612922
+Mank,2020,10618286
+Minari,2020,10633456
+Babylon,2022,10640346
+Boyhood,2014,1065073
+Halloween Kills,2021,10665338
+Water for Elephants,2011,1067583
+Monte Carlo,2011,1067774
+I've Loved You So Long,2008,1068649
+Yes Man,2008,1068680
+The Electrical Life of Louis Wain,2021,10687506
+The Harder They Fall,2021,10696784
+The Trial of the Chicago 7,2020,1070874
+The Descent: Part 2,2009,1073105
+Don't Worry Darling,2022,10731256
+Skyfall,2012,1074638
+Jonah Hex,2010,1075747
+Eddie the Eagle,2015,1083452
+Rachel Getting Married,2008,1084950
+The Hole,2009,1085779
+Bill & Ted Face the Music,2020,1086064
+Spider-Man: No Way Home,2021,10872600
+Lone Survivor,2013,1091191
+Adventureland,2009,1091722
+Paul,2011,1092026
+Nanny,2022,10931784
+Nope,2022,10954984
+C'mon C'mon,2021,10986222
+Twilight,2008,1099212
+Foxcatcher,2014,1100089
+TRON: Legacy,2010,1104001
+Shifty,2008,1104126
+Dirty Girl,2010,1107319
+Spirit Untamed,2021,11084896
+The Northman,2022,11138512
+The Card Counter,2021,11196036
+The Hangover,2009,1119646
+Blue Valentine,2010,1120985
+House of Gucci,2021,11214590
+The Ides of March,2011,1124035
+Scream,2022,11245972
+The Wrestler,2008,1125849
+Big Eyes,2014,1126590
+Burlesque,2010,1126591
+Drag Me to Hell,2009,1127180
+Sin Nombre,2009,1127715
+Master,2022,11286210
+Don't Look Up,2021,11286314
+Amelia,2009,1129445
+The Informant!,2009,1130080
+Shutter Island,2010,1130884
+Jennifer's Body,2009,1131734
+Green Lantern,2011,1133985
+Duplicity,2009,1135487
+Sex Drive,2008,1135985
+I Carry You with Me,2020,11388990
+Mass,2021,11389748
+The Unborn,2009,1139668
+Strawberry Mansion,2021,11398346
+Frankenweenie,2012,1142977
+The Ugly Truth,2009,1142988
+The Final Destination,2009,1144884
+Orphan,2009,1148204
+The White Ribbon,2009,1149362
+Public Enemies,2009,1152836
+8-Bit Christmas,2021,11540284
+"I Love You, Man",2009,1155056
+Zombieland,2009,1156398
+Glass Onion,2022,11564570
+Dune,2021,1160419
+The Hobbit: The Desolation of Smaug,2013,1170358
+Whip It,2009,1172233
+Catherine Called Birdy,2022,11727866
+City Island,2009,1174730
+An Education,2009,1174732
+A Hero,2021,11777738
+Paranormal Activity,2007,1179904
+10 Cloverfield Lane,2016,1179933
+The Banshees of Inisherin,2022,11813216
+Moon,2009,1182345
+Ninja Assassin,2009,1186367
+3 Idiots,2009,1187043
+Pandorum,2009,1188729
+The Lincoln Lawyer,2011,1189340
+2012,2009,1190080
+Up in the Air,2009,1193138
+Get Low,2009,1194263
+Diary of a Wimpy Kid,2010,1196141
+Law Abiding Citizen,2009,1197624
+Observe and Report,2009,1197628
+Obsessed,2009,1198138
+Funny People,2009,1201167
+Harry Potter and the Deathly Hallows: Part 2,2011,1201607
+Ouija,2014,1204977
+Gran Torino,2008,1205489
+Moneyball,2011,1210166
+The Lone Ranger,2013,1210819
+The Lost City of Z,2016,1212428
+The Back-up Plan,2010,1212436
+First Man,2018,1213641
+The World's End,2013,1213663
+Cars 2,2011,1216475
+Kill the Messenger,2014,1216491
+Leap Year,2010,1216492
+Battle Los Angeles,2011,1217613
+Limitless,2011,1219289
+The Fourth Kind,2009,1220198
+I Hope They Serve Beer in Hell,2009,1220628
+Henry's Crime,2010,1220888
+Extract,2009,1225822
+Thirteen Lives,2022,12262116
+Get Him to the Greek,2010,1226229
+The Damned United,2009,1226271
+The Debt,2010,1226753
+In the Loop,2009,1226774
+Beautiful Boy,2018,1226837
+Dr. Horrible's Sing-Along Blog,,1227926
+Let Me In,2010,1228987
+Those Who Walk Away,2022,12292206
+Jane Eyre,2011,1229822
+It's Complicated,2009,1230414
+S. Darko,2009,1231277
+Hot Tub Time Machine,2010,1231587
+That's My Boy,2012,1232200
+Sorority Row,2009,1232783
+21 Jump Street,2012,1232829
+Pariah,2011,1233334
+The Men Who Stare at Goats,2009,1234548
+Greenberg,2010,1234654
+Death Note,2017,1241317
+I Spit on Your Grave,2010,1242432
+We Need to Talk About Kevin,2011,1242460
+The Tourist,2010,1243957
+RED,2010,1245526
+Kick-Ass,2010,1250777
+Middle Men,2009,1251757
+Emancipation,2022,12530246
+Spencer,2021,12536294
+The Cabin in the Woods,2011,1259521
+Den of Thieves,2018,1259528
+The Twilight Saga: New Moon,2009,1259571
+Parallel Mothers,2021,12618926
+Scream 4,2011,1262416
+Paradise,2013,1262990
+The Roommate,2011,1265990
+Nowhere Boy,2009,1266029
+Malcolm & Marie,2021,12676326
+The Hand of God,2021,12680684
+2 Guns,2013,1272878
+Under the Mountain,2009,1275861
+Looper,2012,1276104
+Jack Goes Boating,2010,1278379
+Belfast,2021,12789558
+Date Night,2010,1279935
+Encounter,2021,12800524
+Luca,2021,12801262
+Easy A,2010,1282140
+Bad Teacher,2011,1284575
+The Social Network,2010,1285016
+Evil Dead,2013,1288558
+Cyrano,2021,12889404
+Warrior,2011,1291584
+Solitary Man,2009,1294213
+Pirates of the Caribbean: On Stranger Tides,2011,1298650
+The Boondock Saints II: All Saints Day,2009,1300851
+The Irishman,2019,1302006
+50/50,2011,1306980
+Kill Your Darlings,2013,1311071
+Animal Kingdom,2010,1313092
+My Policeman,2022,13139228
+Borat Subsequent Moviefilm,2020,13143964
+Rise of the Planet of the Apes,2011,1318514
+The Expendables,2010,1320253
+Swan Song,2021,13207508
+Death at a Funeral,2010,1321509
+Oldboy,2013,1321511
+The Beaver,2011,1321860
+August: Osage County,2013,1322269
+Frozen,2010,1323045
+Despicable Me,2010,1323594
+The Butler,2013,1327773
+Never Let Me Go,2010,1334260
+Arthur,2011,1334512
+Terminator Genisys,2015,1340138
+Fresh,2022,13403046
+Tinker Tailor Soldier Spy,2011,1340800
+Four Lions,2010,1341167
+How Do You Know,2010,1341188
+The Great Gatsby,2013,1343092
+Dredd,2012,1343727
+Red Rocket,2021,13453006
+The Dark Knight Rises,2012,1345836
+Butter,2011,1349451
+Passengers,2016,1355644
+Jockey,2021,13559026
+Beasts of No Nation,2015,1365050
+Emergency,2022,13650600
+Tomb Raider,2018,1365519
+Women Talking,2022,13669038
+Cloud Atlas,2012,1371111
+Coriolanus,2011,1372686
+Inception,2010,1375666
+The Whale,2022,13833688
+The Adjustment Bureau,2011,1385826
+The Other Guys,2010,1386588
+Downsizing,2017,1389072
+Mad Max: Fury Road,2015,1392190
+Prisoners,2013,1392214
+It,2017,1396484
+Straight Outta Compton,2015,1398426
+Winter's Bone,2010,1399683
+Unknown,2011,1401152
+Hesher,2010,1403177
+True Grit,2010,1403865
+Remember Me,2010,1403981
+Celeste & Jesse Forever,2012,1405365
+For Colored Girls,2010,1405500
+Men in Black 3,2012,1409024
+No Strings Attached,2011,1411238
+The Best Exotic Marigold Hotel,2011,1412386
+The Fabelmans,2022,14208870
+Somewhere,2010,1421051
+Predators,2010,1424381
+Deadpool,2016,1431045
+Another Year,2010,1431181
+Lady Chatterley's Lover,2022,14369780
+Cha Cha Real Smooth,2022,14376344
+Fright Night,2011,1438176
+Charlie St. Cloud,2010,1438254
+Empire of Light,2022,14402146
+Submarine,2010,1440292
+The American,2010,1440728
+Martha Marcy May Marlene,2011,1441326
+Under the Skin,2013,1441395
+Quartet,2012,1441951
+Tár,2022,14444726
+The Son,2022,14458442
+Rise of the Guardians,2012,1446192
+Prometheus,2012,1446714
+Monsters University,2013,1453405
+The Help,2011,1454029
+Gravity,2013,1454468
+The Conjuring,2013,1457767
+The Next Three Days,2010,1458175
+Buried,2010,1462758
+I Am Number Four,2011,1464540
+Baywatch,2017,1469304
+MacGruber,2010,1470023
+Bridget Jones's Baby,2016,1473832
+Cedar Rapids,2011,1477837
+Hyde Park on Hudson,2012,1477855
+Bridesmaids,2011,1478338
+Attack the Block,2011,1478964
+She Said,2022,14807308
+The Lorax,2012,1482459
+Oblivion,2013,1483013
+The Greatest Showman,2017,1485796
+Red Riding Hood,2011,1486185
+Tamara Drewe,2010,1486190
+F,2010,1486670
+The Change-Up,2011,1488555
+Guillermo del Toro's Pinocchio,2022,1488589
+Booksmart,2019,1489887
+The Lego Movie,2014,1490017
+I Saw the Light,2015,1490785
+Aaranya Kaandam,2010,1496729
+Horrible Bosses,2011,1499658
+Bad Boys for Life,2020,1502397
+Drive Angry,2011,1502404
+The King's Speech,2010,1504320
+Third Star,2010,1510906
+Super,2010,1512235
+A Star Is Born,2018,1517451
+Anonymous,2011,1521197
+Vacation,2015,1524930
+"Argentina, 1985",2022,15301048
+Murderland,,1531804
+Beginners,2010,1532503
+Marcel the Shell with Shoes On,2021,15339456
+Elysium,2013,1535108
+Captain Phillips,2013,1535109
+127 Hours,2010,1542344
+Zombieland: Double Tap,2019,1560220
+The Master,2012,1560747
+Blue Hotel,2010,1561375
+Bloodwork,2012,1562567
+Overboard,2018,1563742
+Skyline,2010,1564585
+Man on a Ledge,2012,1568338
+The Girl with the Dragon Tattoo,2011,1568346
+War Horse,2011,1568911
+"Crazy, Stupid, Love.",2011,1570728
+A Dangerous Method,2011,1571222
+Barbarian,2022,15791034
+Larry Crowne,2011,1583420
+What to Expect When You're Expecting,2012,1586265
+Machine Gun Preacher,2011,1586752
+Maleficent,2014,1587310
+Insidious,2010,1591095
+Pawn Sacrifice,2014,1596345
+The Big Short,2015,1596363
+Contagion,2011,1598778
+Abduction,2011,1600195
+Only God Forgives,2013,1602613
+Amour,2012,1602620
+ATM,2012,1603257
+Frank,2014,1605717
+Midnight in Paris,2011,1605783
+Win Win,2011,1606392
+Margin Call,2011,1615147
+Jackie,2016,1619029
+30 Minutes or Less,2011,1622547
+ParaNorman,2012,1623288
+Young Adult,2011,1625346
+The Sandwich Days,2010,1629412
+Edge of Tomorrow,2014,1631867
+Friends with Benefits,2011,1632708
+Bloodshot,2020,1634106
+Ted,2012,1637725
+The Man from U.N.C.L.E.,2015,1638355
+Udaan,2010,1639426
+How to Train Your Dragon 2,2014,1646971
+The Dark Tower,2017,1648190
+Super 8,2011,1650062
+Blonde,2022,1655389
+My Week with Marilyn,2011,1655420
+The Artist,2011,1655442
+Colombiana,2011,1657507
+The Song of Names,2019,1657517
+The Perks of Being a Wallflower,2012,1659337
+The Revenant,2015,1663202
+Martyrs,2015,1663655
+Pacific Rim,2013,1663662
+Damsels in Distress,2011,1667307
+Now You See Me,2013,1670345
+Batman: Year One,,1672723
+Take Shelter,2011,1675192
+Ready Player One,2018,1677720
+Stoker,2013,1682180
+Playback,2012,1682940
+Despicable Me 2,2013,1690953
+I Melt with You,2011,1691920
+Carnage,2011,1692486
+The Invisible Woman,2013,1700845
+Chronicle,2012,1706593
+Snowpiercer,2013,1706620
+Les Misérables,2012,1707386
+Alex Cross,2012,1712170
+Only Lovers Left Alive,2013,1714915
+Shame,2011,1723811
+The Way Way Back,2013,1727388
+Bohemian Rhapsody,2018,1727824
+Ender's Game,2013,1731141
+Snow White and the Huntsman,2012,1735898
+Moonrise Kingdom,2012,1748122
+This Is 40,2012,1758830
+No One Lives,2012,1763264
+Arbitrage,2012,1764183
+Shadow Dancer,2012,1770734
+Danny Collins,2015,1772288
+Anna Karenina,2012,1781769
+Boy Who Never Slept,2006,1781782
+John Dies at the End,2012,1783732
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,1790809
+The Maze Runner,2014,1790864
+Zero Dark Thirty,2012,1790885
+Inherent Vice,2014,1791528
+While We're Young,2014,1791682
+Her,2013,1798709
+American Hustle,2013,1800241
+Gold,2016,1800302
+Unbroken,2014,1809398
+The Place Beyond the Pines,2012,1817273
+Nebraska,2013,1821549
+The Double,2013,1825157
+Black Panther,2018,1825683
+A Separation,2011,1832382
+Great Expectations,2012,1836808
+Winter's Tale,2014,1837709
+Ruby Sparks,2012,1839492
+Rockstar,2011,1839596
+Divergent,2014,1840309
+Django Unchained,2012,1853728
+You're Next,2011,1853739
+End of Watch,2012,1855199
+To Rome with Love,2012,1859650
+Safety Not Guaranteed,2012,1862079
+The Sessions,2012,1866249
+The Batman,2022,1877830
+X-Men: Days of Future Past,2014,1877832
+The Edge of Seventeen,2016,1878870
+Spotlight,2015,1895587
+Flight,2012,1907668
+My Pure Joy,2011,1909807
+Good Vibrations,2012,1920945
+Frankenstein's Army,2013,1925435
+Mud,2012,1935179
+Carrie,2013,1939659
+Ford v Ferrari,2019,1950186
+The Hitman's Bodyguard,2017,1959563
+Labor Day,2013,1967545
+The Comedian,2016,1967614
+Infinitely Polar Bear,2014,1969062
+The Neon Demon,2016,1974419
+Victor Frankenstein,2015,1976009
+Aftersun,2022,19770238
+Toy Story 4,2019,1979376
+The Good Dinosaur,2015,1979388
+Pitch Perfect,2012,1981677
+"For a Good Time, Call...",2012,1996264
+Papadopoulos & Sons,2012,2006810
+All Is Lost,2013,2017038
+Identity Thief,2013,2024432
+12 Years a Slave,2013,2024544
+Flatliners,2017,2039338
+The Gambler,2014,2039393
+Inside Llewyn Davis,2013,2042568
+Rust and Bone,2012,2053425
+Side Effects,2013,2053463
+Eye in the Sky,2015,2057392
+Smashed,2012,2063781
+Rocketman,2019,2066051
+Steve Jobs,2015,2080374
+The Imitation Game,2014,2084970
+Mr. Right,2015,2091935
+Inside Out,2015,2096673
+Spring Breakers,2012,2101441
+Dawn of the Planet of the Apes,2014,2103281
+Authors Anonymous,2014,2114461
+Ginger & Rosa,2012,2115295
+Hacksaw Ridge,2016,2119532
+Pixels,2015,2120120
+Beasts of the Southern Wild,2012,2125435
+The Bling Ring,2013,2132285
+Saving Mr. Banks,2013,2140373
+The Accountant,2016,2140479
+Bad Words,2013,2170299
+Horrible Bosses 2,2014,2170439
+The Kings of Summer,2013,2179116
+American Sniper,2014,2179136
+Into the Woods,2014,2180411
+The Purge,2013,2184339
+Run All Night,2015,2199571
+Before Midnight,2013,2209418
+The Amityville Asylum,2013,2216212
+Insidious: Chapter 2,2013,2226417
+Calvary,2014,2234003
+Dear White People,2014,2235108
+Contest,2013,2245188
+American Milkshake,2013,2254364
+Hate Crime,2012,2257436
+Wadjda,2012,2258858
+Gone Girl,2014,2267998
+Hellboy,2019,2274648
+The Grand Budapest Hotel,2014,2278388
+My Friend Dahmer,2017,2291540
+Minions,2015,2293640
+22 Jump Street,2014,2294449
+Frozen,2013,2294629
+Olympus Has Fallen,2013,2302755
+Reasonable Doubt,2014,2304953
+Alien: Covenant,2017,2316204
+The Babadook,2014,2321549
+Mary Queen of Scots,2018,2328900
+The Zero Theorem,2013,2333804
+Fruitvale Station,2013,2334649
+Blue Jasmine,2013,2334873
+White House Down,2013,2334879
+The Rover,2014,2345737
+The Mummy,2017,2345759
+Frances Ha,2012,2347569
+Mississippi Grind,2015,2349144
+The Lunchbox,2013,2350496
+Bad Country,2014,2350892
+Blue Ruin,2013,2359024
+Live by Night,2016,2361317
+The Intern,2015,2361509
+Short Term 12,2013,2370248
+Spectre,2015,2379713
+Coco,2017,2380307
+Brooklyn,2015,2381111
+Mission: Impossible - Rogue Nation,2015,2381249
+Focus,2015,2381941
+No Time to Die,2021,2382320
+Oculus,2013,2388715
+Enough Said,2013,2390361
+Mudbound,2017,2396589
+The Invitation,2015,2400463
+Anomalisa,2015,2401878
+Carol,2015,2402927
+Belle,2013,2404181
+Gods of Egypt,2016,2404233
+Woman in Gold,2015,2404425
+The Past,2013,2404461
+The Happy Prince,2018,2404639
+Atomic Blonde,2017,2406566
+Christ Complex,2012,2416048
+Joy,2015,2446980
+The Peanuts Movie,2015,2452042
+Respect,2021,2452150
+Get on Up,2014,2473602
+Mr. Turner,2014,2473794
+"Extremely Wicked, Shockingly Evil and Vile",2019,2481498
+5 to 7,2014,2486678
+Star Wars: Episode VII - The Force Awakens,2015,2488496
+The Keeping Room,2014,2488778
+Me Him Her,2015,2507238
+Hotel Transylvania 2,2015,2510894
+Crimson Peak,2015,2554274
+Birdman or (The Unexpected Virtue of Ignorance),2014,2562232
+Me and Earl and the Dying Girl,2015,2582496
+Hell or High Water,2016,2582782
+Whiplash,2014,2582802
+The Fault in Our Stars,2014,2582846
+Jojo Rabbit,2019,2584384
+Love Is Strange,2014,2639344
+About Alex,2014,2667918
+Fences,2016,2671706
+Locke,2013,2692904
+The Boss,2016,2702724
+Game Night,2018,2704998
+The Secret Life of Pets,2016,2709768
+Fury,2014,2713180
+What We Did on Our Holiday,2014,2725962
+Bird Box,2018,2737304
+Beauty and the Beast,2017,2771200
+Annihilation,2018,2798920
+Kingsman: The Secret Service,2014,2802144
+Mike and Dave Need Wedding Dates,2016,2823054
+The Old Man & the Gun,2018,2837574
+Pitch Perfect 2,2015,2848292
+"As Above, So Below",2014,2870612
+Wish I Was Here,2014,2870708
+Mistress America,2015,2872462
+Nightcrawler,2014,2872718
+Lucy,2014,2872732
+Red Sparrow,2018,2873282
+Macbeth,2015,2884018
+99 Homes,2014,2891174
+John Wick,2014,2911666
+Ad Astra,2019,2935510
+A Most Violent Year,2014,2937898
+Zootopia,2016,2948356
+Soul,2020,2948372
+Encanto,2021,2953050
+Batman v Superman: Dawn of Justice,2016,2975590
+The Theory of Everything,2014,2980516
+The Guest,2014,2980592
+13/13/13,2013,2991516
+Faults,2014,3021360
+Learning to Drive,2014,3062976
+Love & Friendship,2016,3068194
+Creed,2015,3076658
+Suffragette,2015,3077214
+Tusk,2014,3099498
+Crazy Rich Asians,2018,3104988
+The Tender Bar,2021,3108894
+Trainwreck,2015,3152624
+Pride,2014,3169706
+Room,2015,3170832
+The Boy Next Door,2015,3181822
+Trumbo,2015,3203606
+Slow West,2015,3205376
+A Beautiful Day in the Neighborhood,2019,3224458
+It Follows,2014,3235888
+I'll See You in My Dreams,2015,3236120
+Sully,2016,3263904
+Little Women,2019,3281548
+Logan,2017,3315342
+American Ultra,2015,3316948
+Still Alice,2014,3316960
+Annabelle,2014,3322940
+Stan & Ollie,2018,3385524
+Scary Stories to Tell in the Dark,2019,3387520
+Haider,2014,3390572
+Ulidavaru Kandanthe,2014,3394420
+Sicario,2015,3397884
+Murder on the Orient Express,2017,3402236
+A Monster Calls,2016,3416532
+The End of the Tour,2015,3416744
+Finch,2021,3420504
+War for the Planet of the Apes,2017,3450958
+The Lobster,2015,3464902
+Sing,2016,3470600
+Maggie's Plan,2015,3471098
+Thor: Ragnarok,2017,3501632
+Richard Jewell,2019,3513548
+The Disaster Artist,2017,3521126
+Sing Street,2016,3544112
+Captain Fantastic,2016,3553976
+Girls Trip,2017,3564472
+Legend,2015,3569230
+West Side Story,2021,3581652
+The Grudge,2020,3612126
+The Girl on the Train,2016,3631112
+I Smile Back,2015,3640682
+The Martian,2015,3659388
+The Red Turtle,2016,3666024
+Bridge of Spies,2015,3682448
+Remember,2015,3704050
+Elvis,2022,3704428
+All the Old Knives,2022,3706352
+The Hollars,2016,3714720
+Maudie,2016,3721954
+The Leisure Seeker,2017,3741632
+Lion,2016,3741834
+The Wife,2017,3750872
+My Big Fat Greek Wedding 2,2016,3760922
+La La Land,2016,3783958
+Barb and Star Go to Vista Del Mar,2021,3797512
+The Nice Guys,2016,3799694
+Big Time Adolescence,2019,3824648
+The Predator,2018,3829266
+Land of Mine,2015,3841424
+To All the Boys I've Loved Before,2018,3846674
+Dope,2015,3850214
+Krampus,2015,3850590
+The Boy,2016,3882082
+Baby Driver,2017,3890160
+Leave No Trace,2018,3892172
+Guardians of the Galaxy Vol. 2,2017,3896198
+Equity,2016,3958780
+Okja,2017,3967856
+Manchester by the Sea,2016,4034228
+Swiss Army Man,2016,4034354
+Toni Erdmann,2016,4048272
+Green Room,2015,4062536
+A Prayer Before Dawn,2017,4080956
+Avengers: Endgame,2019,4154796
+Free Fire,2016,4158096
+All for Nikki,2020,4160608
+Anthropoid,2016,4190530
+Norman,2016,4191702
+How to Build a Girl,2019,4193072
+The Birth of a Nation,2016,4196450
+Molly's Game,2017,4209788
+The Babysitter,2017,4225622
+The Witch,2015,4263482
+The Good Nurse,2022,4273800
+The Founder,2016,4276820
+Kubo and the Two Strings,2016,4302938
+Julieta,2016,4326444
+The Last Black Man in San Francisco,2019,4353250
+The Peanut Butter Falcon,2019,4364194
+20th Century Women,2016,4385888
+Paddington 2,2017,4468740
+The Meddler,2015,4501454
+Novitiate,2017,4513316
+Overlord,2018,4530422
+Miss Sloane,2016,4540710
+Nocturnal Animals,2016,4550098
+Darkest Hour,2017,4555426
+Downhill,2020,4558376
+Can You Ever Forgive Me?,2018,4595882
+Battle of the Sexes,2017,4622512
+Spider-Man: Into the Spider-Verse,2018,4633694
+Masaan,2015,4635372
+Denial,2016,4645330
+Harriet,2019,4648786
+Bad Moms,2016,4651520
+On the Basis of Sex,2018,4669788
+Loving,2016,4669986
+Lucy in the Sky,2019,4682804
+The Death of Stalin,2017,4686844
+The Mauritanian,2021,4761112
+The Meg,2018,4779682
+Lights Out,2016,4786282
+Hidden Figures,2016,4846340
+First They Killed My Father,2017,4882376
+Kapoor & Sons,2016,4900716
+Just Mercy,2019,4916630
+Lady Bird,2017,4925292
+Till,2022,4960748
+The Sisters Brothers,2018,4971344
+Moonlight,2016,4975722
+Being the Ricardos,2021,4995540
+Ambulance,2022,4998632
+Dunkirk,2017,5013056
+"Three Billboards Outside Ebbing, Missouri",2017,5027774
+Mary Poppins Returns,2018,5028340
+Get Out,2017,5052448
+Sicario: Day of the Soldado,2018,5052474
+Hold the Dark,2018,5057140
+Dangal,2016,5074352
+The Favourite,2018,5083738
+Papillon,2017,5093026
+Isle of Dogs,2018,5104604
+Raya and the Last Dragon,2021,5109280
+Mother!,2017,5109784
+Warning Shot,2018,5113250
+Ocean's Eight,2018,5164214
+"Love, Simon",2018,5164432
+Mark Felt: The Man Who Brought Down the White House,2017,5175450
+Wonderstruck,2017,5208216
+Neerja,2016,5286444
+All the Money in the World,2017,5294550
+Happy End,2017,5304464
+Happy Death Day,2017,5308322
+Never Look Away,2018,5311542
+Wind River,2017,5362988
+Sound of Metal,2019,5363618
+Colette,2018,5437928
+Zola,2020,5439812
+The Big Sick,2017,5462602
+Hustlers,2019,5503686
+Bright,2017,5519340
+Private Life,2018,5536610
+The Meyerowitz Stories,2017,5536736
+Pink,2016,5571734
+"I, Tonya",2017,5580036
+The Hate U Give,2018,5580266
+The Shape of Water,2017,5580390
+The Beguiled,2017,5592248
+Doctor Sleep,2019,5606664
+Tully,2018,5610554
+Mid90s,2018,5613484
+A Fantastic Woman,2017,5639354
+Thoroughbreds,2017,5649108
+The Florida Project,2017,5649144
+Fighting Belle,2017,5662022
+Sorry to Bother You,2018,5688932
+Slender Man,2018,5690360
+Under the Silver Lake,2018,5691670
+I Don't Feel at Home in This World Anymore,2017,5710514
+Film Stars Don't Die in Liverpool,2017,5711148
+The Killing of a Sacred Deer,2017,5715874
+Breathe,2017,5716464
+Call Me by Your Name,2017,5726616
+You Were Never Really Here,2017,5742374
+Skyscraper,2018,5758778
+Underwater,2020,5774060
+Phantom Thread,2017,5776858
+Brigsby Bear,2017,5805752
+The Nun,2018,5814060
+Victoria & Abdul,2017,5816682
+A Hidden Life,2019,5827916
+Elizabeth Blue,2017,5881892
+Brad's Status,2017,5884230
+Wildlife,2018,5929754
+Vox Lux,2018,5960374
+Ingrid Goes West,2017,5962210
+Life Itself,2018,5989218
+"Roman J. Israel, Esq.",2017,6000478
+Kin,2018,6017942
+Last Flag Flying,2017,6018306
+First Reformed,2017,6053438
+Disobedience,2017,6108178
+The Aeronauts,2019,6141246
+Roma,2018,6155172
+White Noise,2022,6160448
+I Think We're Alone Now,2018,6169694
+Assassination Nation,2018,6205872
+American Animals,2018,6212478
+The Rider,2017,6217608
+Annette,2021,6217926
+The Man Who Invented Christmas,2017,6225520
+"Ruben Brandt, Collector",2018,6241872
+Free Guy,2021,6264654
+Vice,2018,6266538
+The Post,2017,6294822
+Loveless,2017,6304162
+Creed II,2018,6343314
+Downton Abbey,2019,6398184
+The Ballad of Buster Scruggs,2018,6412452
+Fast Color,2018,6418778
+The Sun Is Also a Star,2019,6423362
+The Personal History of David Copperfield,2019,6439020
+Serenity,2019,6476140
+Upgrade,2018,6499752
+The Beach Bum,2019,6511932
+The White Tiger,2021,6571548
+Bad Times at the El Royale,2018,6628394
+A Quiet Place,2018,6644200
+What They Had,2018,6662736
+The Spy Who Dumped Me,2018,6663582
+Outlaw King,2018,6679794
+Everything Everywhere All at Once,2022,6710474
+Tenet,2020,6723592
+Parasite,2019,6751668
+Totem,2017,6791238
+Us,2019,6857112
+Palmer,2021,6857376
+The Hummingbird Project,2018,6866224
+News of the World,2020,6878306
+Foxtrot,2017,6896536
+Midway,2019,6924650
+The Boss Baby 2: Family Business,2021,6932874
+Puzzle,2018,6933454
+Green Book,2018,6966692
+Mandy,2018,6998518
+Boy Erased,2018,7008872
+Eighth Grade,2018,7014006
+A Simple Favor,2018,7040874
+Velvet Buzzsaw,2019,7043012
+The Front Runner,2018,7074886
+If Beale Street Could Talk,2018,7125860
+Destroyer,2018,7137380
+Onward,2020,7146812
+Blindspotting,2018,7242142
+22-Jul,2018,7280898
+Joker,2019,7286456
+Triangle of Sadness,2022,7322224
+Good Boys,2019,7343762
+BlacKkKlansman,2018,7349662
+A Man Called Otto,2022,7405458
+In Fabric,2018,7464188
+Over the Moon,2020,7488208
+Marriage Story,2019,7653254
+Searching,2018,7668870
+Stuber,2019,7734218
+Kate,2021,7737528
+Nightmare Alley,2021,7740496
+Brightburn,2019,7752126
+Never Rarely Sometimes Always,2020,7772582
+Hereditary,2018,7784604
+I'm Thinking of Ending Things,2020,7939766
+The Mitchells vs the Machines,2021,7979580
+The Lighthouse,2019,7984734
+The King,2019,7984766
+After the Wedding,2019,7985692
+Frankie,2019,8019694
+The Woman King,2022,8093700
+Kajillionaire,2020,8143990
+Honey Boy,2019,8151874
+The Report,2019,8236336
+Capernaum,2018,8267604
+Pain and Glory,2019,8291806
+Crawl,2019,8364368
+The Gentlemen,2019,8367814
+The Two Popes,2019,8404614
+Shirley,2020,8430598
+The United States vs. Billie Holiday,2021,8521718
+Dolemite Is My Name,2019,8526872
+The Way Back,2020,8544498
+1917,2019,8579674
+The Farewell,2019,8637428
+The Climb,2019,8637440
+Waves,2019,8652728
+"tick, tick... BOOM!",2021,8721424
+Queen & Slim,2019,8722346
+Midsommar,2019,8772262
+Come to Daddy,2019,8816194
+The French Dispatch,2021,8847712
+Passing,2021,8893974
+Knives Out,2019,8946378
+Saint Frances,2019,9016016
+Living,2022,9051908
+The Lost Daughter,2021,9100054
+Black Panther: Wakanda Forever,2022,9114286
+Cherry,2021,9130508
+Three Thousand Years of Longing,2022,9198364
+All Is True,2018,9206798
+Emma.,2020,9214832
+First Cow,2019,9231040
+Let Him Go,2020,9340860
+Candyman,2021,9347730
+Palm Springs,2020,9484998
+On the Rocks,2020,9606374
+King Richard,2021,9620288
+Promising Young Woman,2020,9620292
+Last Night in Soho,2021,9639470
+The King of Staten Island,2020,9686708
+The Night House,2020,9731534
+Bros,2022,9731598
+The Menu,2022,9764362
+Nomadland,2020,9770150
+Da 5 Bloods,2020,9777644
+The Tomorrow War,2021,9777666
+Judas and the Black Messiah,2021,9784798
+Herself,2020,9902160
